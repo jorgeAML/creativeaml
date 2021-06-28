@@ -1,0 +1,25 @@
+@media (min-width: 1200px) {
+    #logo-copy {
+        margin-top: -10%;
+    }
+    ul {
+        list-style-type: none;
+    }
+    .love > img {
+        height: 20px;
+    }
+}
+@media only screen and (max-width: 650px) {
+    #logo-copy > div > img {
+        margin-left: 30%;
+    }
+    .image-width-10 {
+        width: 40%;
+    }
+    .center-everything {
+        align-self: center;
+    }
+    .love > img {
+        height: 20px;
+    }
+}
