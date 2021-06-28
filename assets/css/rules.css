@@ -1,0 +1,196 @@
+:root {
+    --font-kant: 'Kanit', sans-serif;
+    --font-frederika: 'Fredericka the Great', cursive;
+    --font-bungeeShade: 'Bungee Shade', cursive;
+    --color-white: #ffffff;
+    --color-border-light: #f3e5f5;
+    --color-button-yellow: #fbc02d;
+    --color-button-yellow-light: #fff263;
+    --color-black: #000000;
+    --background-header: var(--c-color-e);
+
+    /*GRADIENTS*/
+    --background-gradient-a: linear-gradient(-45deg, rgba(196,2,173,1) 0%, rgba(254,197,25,1) 100%);
+    --background-gradient-b: linear-gradient(-45deg, #FF7B02 0%, #FFCB52 100%);
+    --background-gradient-c: linear-gradient(-45deg, #C165DD 0%, #5C27FE 100%);
+    --background-gradient-d: linear-gradient(-45deg, #1DE5E2 0%, #B588F7 100%);
+    --background-gradient-e: linear-gradient(-45deg, #FACD68 0%, #FC76B3 100%);
+    --background-gradient-f: linear-gradient(-45deg, #2AFEB7 0%, #08C792 100%);
+    --background-gradient-g: linear-gradient(-45deg, #5581F1 0%, #1153FC 100%);
+    --background-gradient-h: linear-gradient(-45deg, #00F7A7 0%, #04F5ED 100%);
+    --background-gradient-i: linear-gradient(-45deg, #FFE324 0%, #FFB533 100%);
+    --background-gradient-j: linear-gradient(-45deg, #F54864 0%, #F78361 100%);
+
+    /*CORPORATE AND SERIUS COLORS*/
+    --c-color-a: #3e4f59;
+    --c-color-b: #72cccd;
+    --c-color-c: #06aaac;
+    --c-color-d: #febe4d;
+    --c-color-e: #454547;
+    --c-color-f: #1b1b1b;
+    --c-color-g: #e0e0e0;
+    --c-color-i: #eeeeee;
+    --c-color-h: #1153FC;
+    --c-color-o: #F54864;
+    /*WHITE COLORS*/
+    --c-color-j: #fafafa;
+    --c-color-k: #eceff1;
+    /*DARK*/
+    --c-color-l: #1b1b1b;
+    --c-color-m: #6d6d6d;
+    --c-color-n: #424242;
+
+    /*BOX SHADOWS*/
+    --shadow-general: 1px 1px 20px 3px var(--c-color-e);
+    --shadow-toBack: 1px 1px 5px 1px var(--c-color-a);
+    --shadow-light: 0px 1px 1px 1px #F54864;
+    --shadow-blog: 0px 1.2px 3.5px var(--c-color-m);
+}
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    /*background: var(--color-white);*/
+    /*background: var(--background-gradient-a);*/
+    font-family: var(--font-kant);
+           background-color: #ffffff;
+           /*background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' x2='0' y1='1' y2='0'%3E%3Cstop offset='0' stop-color='%230FF'/%3E%3Cstop offset='1' stop-color='%23CF6'/%3E%3C/linearGradient%3E%3ClinearGradient id='b' x1='0' x2='0' y1='0' y2='1'%3E%3Cstop offset='0' stop-color='%23F00'/%3E%3Cstop offset='1' stop-color='%23FC0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='%23FFF' fill-opacity='0' stroke-miterlimit='10'%3E%3Cg stroke='url(%23a)' stroke-width='2'%3E%3Cpath transform='translate(0 0)' d='M1409 581 1450.35 511 1490 581z'/%3E%3Ccircle stroke-width='4' transform='rotate(0 800 450)' cx='500' cy='100' r='40'/%3E%3Cpath transform='translate(0 0)' d='M400.86 735.5h-83.73c0-23.12 18.74-41.87 41.87-41.87S400.86 712.38 400.86 735.5z'/%3E%3C/g%3E%3Cg stroke='url(%23b)' stroke-width='4'%3E%3Cpath transform='translate(0 0)' d='M149.8 345.2 118.4 389.8 149.8 434.4 181.2 389.8z'/%3E%3Crect stroke-width='8' transform='rotate(0 1089 759)' x='1039' y='709' width='100' height='100'/%3E%3Cpath transform='rotate(0 1400 132)' d='M1426.8 132.4 1405.7 168.8 1363.7 168.8 1342.7 132.4 1363.7 96 1405.7 96z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");*/
+           background-attachment: fixed;
+           background-size: cover;
+  } 
+a {
+    text-decoration: none;
+    color: var(--c-color-m);
+}
+a:visited {
+    color: var(--c-color-m);
+}
+a:hover {
+    color: var(--c-color-d);
+}
+a:active {
+    color: var(--c-color-k);
+}
+.font-anton {
+    font-family: 'Anton', sans-serif;
+}
+.border-style1 {
+    border-bottom: 2px groove #bdbdbd;
+}
+
+.gradient-b {
+    background: var(--background-gradient-b);
+}
+.gradient-c {
+    background: var(--background-gradient-c);
+}
+.gradient-d {
+    background: var(--background-gradient-d);
+}
+.gradient-e {
+    background: var(--background-gradient-e);
+}
+.gradient-f {
+    background: var(--background-gradient-f);
+}
+.gradient-g {
+    background: var(--background-gradient-g);
+}
+.gradient-h {
+    background: var(--background-gradient-h);
+}
+.gradient-i {
+    background: var(--background-gradient-i);
+}
+.image-effect-tilt > img {
+    transform-origin:center;
+    transition: transform 0.5s ease-in-out;
+}
+.image-effect-tilt:hover > img {
+    transform: rotate(-5deg) scale(1);
+}
+footer {
+    background-color: var(--c-color-i);
+    margin-top: 10%;
+    border-top: 2px solid var(--c-color-g);
+}
+.col-2 {
+    flex: 1 1 40%;
+}
+.center-text {
+    text-align: center;
+}
+.button-simple-1 {
+    background-color: transparent;
+    border: none;
+    display: block;
+    width: 30%;
+}
+.button-simple-1:hover {
+    border: none;
+    width: 30%;
+}
+.button-simple-1 > a, .button-simple-2 > a {
+    color: var(--c-color-f);
+    font-family: var(--font-kant);
+    padding: 1%;
+    text-decoration: none;
+    font-weight: bold;
+}
+.button-simple-1 > a:hover{
+    color: var(--c-color-c);
+}
+.button-simple-2 {
+    background-color: transparent;
+    border: 3px dashed var(--c-color-o);
+    border-radius: 15px;
+    display: block;
+    width: 30%;
+}
+.button-simple-2:hover {
+    border: none;
+    background-color: var(--c-color-o);
+    width: 30%;
+    padding: 1%;
+}
+.button-simple-2 > a:hover {
+    color: var(--c-color-j);
+}
+.width100 {
+    width: 100%;
+}
+.button-A {
+    border: 1px solid #dbdcff;
+    border-radius: 5px;
+    box-shadow: var(--shadow-blog);
+}
+.button-A > a {
+    font-family: var(--font-kant);
+    font-size: 1.3em;
+}
+.fontStyle1 {
+    font-family: var(--font-bungeeShade);
+    font-size: 2.5em;
+    color: var(--c-color-m);
+}
+.node:hover {
+    color: #59981A;
+}
+.vue:hover {
+    color: #81B622;
+}
+.mongo:hover {
+    color: #76B947;
+}
+.alexa:hover {
+    color: #189AB4;
+}
+.bootstrap:hover {
+    color: #A16AE8;
+}
+.photoshop:hover {
+    color: #05445E;
+}
+.blockchain:hover {
+    color: #DF362D;
+}

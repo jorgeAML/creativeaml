@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>{{page.title}}</title>
+        {% include head.html %}
+    </head>
+    <body>
+        <header>
+          {% include navBlog.html %}
+        </header>
+        <section id="post">
+            <div class="container-column">
+                <div class="post-design">
+                    <h5 class="center-text">{{page.date}}</h5>
+                    <h1 class="center-text">{{page.title}}</h1>
+                    <img src='{{page.image1}}'></img>
+                    {{page.content}}
+                </div>
+            </div>
+        </section>
+        {% include footer.html %}
+    </body>
+</html>

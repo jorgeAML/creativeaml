@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>{{page.title}}</title>
+        {% include head.html %}
+    </head>
+    <body>
+        <section id="nav">
+            {% include navBlog.html %}
+        </section>
+        <section id="post">
+            <div class="container-column">
+                <div class="post-design">
+                    <h5 class="center-text">{{page.date}}</h5>
+                    <h1 class="center-text">{{page.title}}</h1>
+                    {{page.content}}
+                </div>
+            </div>
+        </section>
+        {% include footer2.html %}
+    </body>
+</html>

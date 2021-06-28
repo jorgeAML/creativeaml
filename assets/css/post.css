@@ -1,0 +1,32 @@
+@media (min-width: 1200px) {
+    .post-design {
+        background-color: var(--c-color-j);
+        border: 2px solid var(--c-color-g);
+        box-shadow: var(--shadow-blog);
+        margin: 5% 0 0 0;
+    }
+    .post-design > h5 {
+        color: var(--c-color-g);
+    }
+    .post-design > h1 {
+        font-size: 4em;
+        color: var(--c-color-l);
+    }
+    .post-design > img {
+        width: 100%;
+        object-fit: cover;
+        height: 260px;
+    }
+    .post-design > p, .post-design > ol {
+        padding: 0 15% 0 15%;
+        font-size: large;
+        text-align: justify;
+        color: var(--c-color-n);
+    }
+    .post-design > h3 {
+        color: var(--c-color-l);
+        padding: 0 15% 0 15%;
+        font-size: large;
+        text-align: justify;
+    }
+}
