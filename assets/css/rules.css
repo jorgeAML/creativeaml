@@ -25,7 +25,7 @@
     --c-color-a: #3e4f59;
     --c-color-b: #72cccd;
     --c-color-c: #06aaac;
-    --c-color-d: #febe4d;
+    --c-color-d: #cc0000;
     --c-color-e: #454547;
     --c-color-f: #1b1b1b;
     --c-color-g: #e0e0e0;
@@ -39,6 +39,9 @@
     --c-color-l: #1b1b1b;
     --c-color-m: #6d6d6d;
     --c-color-n: #424242;
+    /*LINKS*/
+    --c-color-link1:#161514;
+    --c-color-link2:#292b3a;
 
     /*BOX SHADOWS*/
     --shadow-general: 1px 1px 20px 3px var(--c-color-e);
@@ -65,10 +68,10 @@ body {
   } 
 a {
     text-decoration: none;
-    color: var(--c-color-m);
+    color: var(--c-color-link2);
 }
 a:visited {
-    color: var(--c-color-m);
+    color: var(--c-color-link2);
 }
 a:hover {
     color: var(--c-color-d);

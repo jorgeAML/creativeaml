@@ -1,198 +1,45 @@
-/*
-#site-navigation {
-  font-family: 'NatureBauty';
-}
-.clicky-menu ul {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    visibility: hidden;
-  }
-  .site-navigation > ul > li:nth-child(1) {
-    font-size: x-large;
-  }
-  .clicky-menu.no-js li:hover > ul {
-    display: block;
-  }
-  .clicky-menu.no-js li:focus-within > ul {
-    display: block;
-  }
-  .clicky-menu ul[aria-hidden="false"] {
-    visibility: visible;
-  }
-
-  .clicky-menu .sub-menu--right {
-    left: auto !important;
-    right: 0 !important;
-  }
-
-  svg[hidden] {
-    display: none;
-    position: absolute;
-  }
- 
-  .site-navigation {
-    width: 100%;
-    max-width: auto;
+@media only screen and (min-device-width:1200px) {
+  #nav {
     margin: 0;
-    background-color: transparent;
+    font-family: 'NatureBeauty';
+    font-size: 1.5em;
+    padding: 1%;
   }
-  
-  .clicky-menu {
-    justify-content: stretch;
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  .nav {
+    box-shadow: 1px 1px 3px 1px	#900603;
+    background-color: #fff;
+    border-bottom: 2px solid #fc6a5f;
   }
-  @media (min-width: 540px) {
-    .clicky-menu {
-      display: flex;
-    }
+  .container-nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: stretch;
   }
-  .clicky-menu a,
-  .clicky-menu button {
-    margin: .25em;
-    padding: 1em;
-    background: transparent;
-    color: var(--color-white);
-    font-weight: bold;
-    text-decoration: none;
-    font-family: inherit;
-    border-radius: 3px;
+  .nav-features {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: stretch;
   }
-  
-  .clicky-menu a:hover,
-  .clicky-menu button:hover {
-    background: var(--color-button-yellow-light);
-    color: var(--c-color-a);
-    opacity: 0.6;
-  }
-  
-  .clicky-menu a:focus,
-  .clicky-menu button:focus {
-    outline: .125em dotted purple;
-    outline-offset: -.125em;
-  }
-  
-  .clicky-menu > li {
-    position: relative;
+  .nav-title {
+    order: 1;
     flex: 1 1 auto;
-    display: flex;
-    justify-content: stretch;
-    flex-wrap: wrap;
   }
-  
-  .clicky-menu > li > a,
-  .clicky-menu > li > button {
-    flex: 1 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    border: 0;
-    font-size: inherit;
-    line-height: 0.1;
-    cursor: pointer;
+  .nav-o {
+    order: 2;
+    flex: 1 1 auto;
   }
-  @media (min-width: 840px) {
-    .clicky-menu > li > a,
-    .clicky-menu > li > button {
-      justify-content: center;
-    } 
+  .nav-features > div:nth-child(1) {
+    order: 1;
+    flex: 1 1 auto;
   }
-  .clicky-menu svg {
-    width: 1em;
-    height: 1em;
-    margin-left: .5em;
+  .nav-features > div:nth-child(2) {
+    order: 2;
+    flex: 1 1 auto;
   }
-  
-  .clicky-menu [aria-expanded="true"] svg {
-    transform: scaleY(-1);
+  .nav-features > div:nth-child(3) {
+    order: 3;
+    flex: 1 1 auto;
   }
-  .clicky-menu ul {
-    min-width: 100%;
-    width: 12em;
-    margin-top: .25em;
-    padding: 0;
-    list-style: none;
-    background-color: #eee;
-    border-radius: 3px;
-  }
-  @media (min-width: 540px) {
-    .clicky-menu {
-      box-shadow: 2px 4px 4px rgba(0,0,0,.2);
-    }
-  }
-  .clicky-menu ul[aria-hidden="false"] {
-    position: static;
-    width: 100%;
-    flex: 0 0 auto;
-  }
-  
-  @media (min-width: 540px) {
-    .clicky-menu ul[aria-hidden="false"] {
-      position: absolute;
-      width: auto;
-    }
-  }
-  .clicky-menu ul a {
-    display: block;
-    padding-top: .375em;
-    padding-bottom: .375em;
-  }
-  @media (min-width: 540px) {
-    .clicky-menu ul a {
-      padding: .375em 1em;
-      white-space: wrap;
-    }
-  }
-  @media (min-width: 1200px) {
-    .container-column-nav {
-      display: flex;
-      flex-flow: column wrap;
-      justify-content: center;
-      margin: 0 0 0 0;
-    }
-  }
-  */
-#nav {
-  margin: 0;
-  font-family: 'NatureBeauty';
-  font-size: 1.5em;
-  background-color: #fff;
-  padding: 1%;
-}
-.nav {
-  box-shadow: 1px 1px 5px 1px #000000;
-}
-.container-nav {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: stretch;
-}
-.nav-features {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: center;
-  align-items: stretch;
-}
-.nav-title {
-  order: 1;
-  flex: 1 1 auto;
-}
-.nav-o {
-  order: 2;
-  flex: 1 1 auto;
-}
-.nav-features > div:nth-child(1) {
-  order: 1;
-  flex: 1 1 auto;
-}
-.nav-features > div:nth-child(2) {
-  order: 2;
-  flex: 1 1 auto;
-}
-.nav-features > div:nth-child(3) {
-  order: 3;
-  flex: 1 1 auto;
 }
