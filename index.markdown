@@ -10,9 +10,9 @@ navSectionA: services
 
 ### NAV CONTENTS
 section0: Creative AML
-section1: Home
+section1: Social
 section2: About me
-section3: Contact me
+section3: Histories
 
 section2-1: Design
 section2-2: Development
