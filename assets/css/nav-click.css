@@ -1,53 +1,31 @@
-
-/**
- * Initial state, hidden off screen
- */
- .clicky-menu ul {
+/*
+#site-navigation {
+  font-family: 'NatureBauty';
+}
+.clicky-menu ul {
     position: absolute;
     top: 100%;
     left: 0;
-    visibility: hidden; /*[1]*/
+    visibility: hidden;
   }
   .site-navigation > ul > li:nth-child(1) {
     font-size: x-large;
   }
-  /**
-   * No JS fallback
-   *
-   * Triggers menus on hover rather than click. Supports keyboard navigation in modern browsers.
-   */
   .clicky-menu.no-js li:hover > ul {
     display: block;
   }
-  .clicky-menu.no-js li:focus-within > ul { /*[2]*/
+  .clicky-menu.no-js li:focus-within > ul {
     display: block;
   }
-  
-  /**
-   * Open/Close Menu Behavior with JS
-   */
   .clicky-menu ul[aria-hidden="false"] {
     visibility: visible;
   }
-  
-  /* Prevent offscreen-submenus */
+
   .clicky-menu .sub-menu--right {
     left: auto !important;
     right: 0 !important;
   }
-  
-  /**
-   * Footnotes
-   *
-   * [1] Using visibility instead of display allows for easier transitions and animation of submenus
-   * [2] Must be a separate ruleset so that hover works in non-modern browsers
-   */
-  
-  
-  /* DEMO CSS */
-  
-  
-  /* Hidden SVG used for down arrows */
+
   svg[hidden] {
     display: none;
     position: absolute;
@@ -57,7 +35,6 @@
     width: 100%;
     max-width: auto;
     margin: 0;
-    /*box-shadow: 2px 2px 4px rgba(0,0,0,.2);*/
     background-color: transparent;
   }
   
@@ -72,8 +49,6 @@
       display: flex;
     }
   }
-  
-  /* General Link & Button Styles */
   .clicky-menu a,
   .clicky-menu button {
     margin: .25em;
@@ -99,7 +74,6 @@
     outline-offset: -.125em;
   }
   
-  /* Top Level Items */
   .clicky-menu > li {
     position: relative;
     flex: 1 1 auto;
@@ -125,8 +99,6 @@
       justify-content: center;
     } 
   }
-  
-  /* Icon */
   .clicky-menu svg {
     width: 1em;
     height: 1em;
@@ -136,8 +108,6 @@
   .clicky-menu [aria-expanded="true"] svg {
     transform: scaleY(-1);
   }
-  
-  /* Submenu Styles */
   .clicky-menu ul {
     min-width: 100%;
     width: 12em;
@@ -148,12 +118,10 @@
     border-radius: 3px;
   }
   @media (min-width: 540px) {
-    /*.clicky-menu {
+    .clicky-menu {
       box-shadow: 2px 4px 4px rgba(0,0,0,.2);
-    }*/
+    }
   }
-  
-  /* Responsive Submenu Behavior */
   .clicky-menu ul[aria-hidden="false"] {
     position: static;
     width: 100%;
@@ -166,8 +134,6 @@
       width: auto;
     }
   }
-  
-  /* Submenu Links */
   .clicky-menu ul a {
     display: block;
     padding-top: .375em;
@@ -179,7 +145,6 @@
       white-space: wrap;
     }
   }
-  /* SECOND NAV */
   @media (min-width: 1200px) {
     .container-column-nav {
       display: flex;
@@ -188,3 +153,46 @@
       margin: 0 0 0 0;
     }
   }
+  */
+#nav {
+  margin: 0;
+  font-family: 'NatureBeauty';
+  font-size: 1.5em;
+  background-color: #fff;
+  padding: 1%;
+}
+.nav {
+  box-shadow: 1px 1px 5px 1px #000000;
+}
+.container-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: stretch;
+}
+.nav-features {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: stretch;
+}
+.nav-title {
+  order: 1;
+  flex: 1 1 auto;
+}
+.nav-o {
+  order: 2;
+  flex: 1 1 auto;
+}
+.nav-features > div:nth-child(1) {
+  order: 1;
+  flex: 1 1 auto;
+}
+.nav-features > div:nth-child(2) {
+  order: 2;
+  flex: 1 1 auto;
+}
+.nav-features > div:nth-child(3) {
+  order: 3;
+  flex: 1 1 auto;
+}

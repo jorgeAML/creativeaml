@@ -46,6 +46,11 @@
     --shadow-light: 0px 1px 1px 1px #F54864;
     --shadow-blog: 0px 1.2px 3.5px var(--c-color-m);
 }
+@font-face {
+    font-family: 'NatureBeauty';
+    src: url('Fonts/Nature_Beauty.ttf') format('truetype');
+}
+
 body {
     margin: 0;
     height: 100%;
