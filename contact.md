@@ -1,15 +1,15 @@
 ---
 layout: contact
 title: Contact us
-permalink: /contact/
+permalink: contact/index.html
 
 section1: Home
 section2: About us
 section4: Contact us
 
-image1: /assets/images/contact-theme-C.jpg
-image2: /assets/images/contact-theme-B.jpg
-image3: /assets/images/contact-theme-A.jpg
+image1: ../assets/images/contact-theme-C.jpg
+image2: ../assets/images/contact-theme-B.jpg
+image3: ../assets/images/contact-theme-A.jpg
 
 title-A: Direct contact
 firstSection: We are located in a small town called "Santiago de los Caballeros de Guatemala" where the nature is part of our life, the motor of our innovation and passion.

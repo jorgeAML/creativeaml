@@ -1,7 +1,7 @@
 ---
 layout: termconditions
 title: Terms & Conditions
-permalink: /termconditions/
+permalink: termconditions/index.html
 
 section1: Home
 section2: About us

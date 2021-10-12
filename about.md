@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About us
-permalink: /about/
+permalink: about/index.html
 
 ### NAV CONTENTS
 section1: Home
@@ -15,21 +15,21 @@ section2-4: Responsive Web Design
 section2-5: Training
 
 ### IMAGES
-image1: /assets/images/oleg.jpg
-image2: /assets/images/matheo.jpg
-image3: /assets/images/laura.jpg
+image1: ../assets/images/oleg.jpg
+image2: ../assets/images/matheo.jpg
+image3: ../assets/images/laura.jpg
 image4-L: https://unsplash.com/photos/Rzuiji1_mMc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-image4: /assets/images/andre.jpg
-image5: /assets/images/inovacion.jpg
-image6: /assets/images/knowledge.jpg
-image7: /assets/images/design.jpg
+image4: ../assets/images/andre.jpg
+image5: ../assets/images/inovacion.jpg
+image6: ../assets/images/knowledge.jpg
+image7: ../assets/images/design.jpg
 
 
-logo: /assets/images/logo2non.png
-logo2: /assets/images/logo2white.png
-logojekyll1: /assets/images/jekyll-logo-black-red-transparent.png
-logojekyll2: /assets/images/jekyll-logo-light-transparent.png
-logojekyll3: /assets/images/jekyll-logo-dark-solid.png
+logo: ../assets/images/logo2non.png
+logo2: ../assets/images/logo2white.png
+logojekyll1: ../assets/images/jekyll-logo-black-red-transparent.png
+logojekyll2: ../assets/images/jekyll-logo-light-transparent.png
+logojekyll3: ../assets/images/jekyll-logo-dark-solid.png
 
 ###   FOOTER
 #//////////////////////////////////////////////////////////////////////////////

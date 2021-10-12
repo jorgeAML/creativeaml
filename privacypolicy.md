@@ -1,7 +1,7 @@
 ---
 layout: privacypolicy
 title: Privacy Policy
-permalink: /privacypolicy/
+permalink: privacypolicy/index.html
 
 section1: Home
 section2: About us

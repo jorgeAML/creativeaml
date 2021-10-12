@@ -10,7 +10,7 @@ navSectionA: services
 
 ### NAV CONTENTS
 section0: Creative AML
-section1: Home
+section1: HOME
 section2: About us
 section3: Blog
 section4: Contact us
@@ -24,21 +24,21 @@ section2-4: Responsive Web Design
 section2-5: Training
 
 ### IMAGES
-image1: /assets/images/designA1.jpg
-image2: /assets/images/development.jpg
-image3: /assets/images/alexa1.jpg
-image4: /assets/images/alexa2.jpg
-image5: /assets/images/responsive.jpg
-image9: /assets/images/training.jpg
-image6: /assets/images/phone.jpg
-image7: /assets/images/phones1.png
-image8: /assets/images/development2.jpg
-image10: /assets/images/jaconda-9.png
-logo: /assets/images/logo2non.png
-logo2: /assets/images/logo2white.png
-logojekyll1: /assets/images/jekyll-logo-black-red-transparent.png
-logojekyll2: /assets/images/jekyll-logo-light-transparent.png
-logojekyll3: /assets/images/jekyll-logo-dark-solid.png
+image1: assets/images/designA1.jpg
+image2: assets/images/development.jpg
+image3: assets/images/alexa1.jpg
+image4: assets/images/alexa2.jpg
+image5: assets/images/responsive.jpg
+image9: assets/images/training.jpg
+image6: assets/images/phone.jpg
+image7: assets/images/phones1.png
+image8: assets/images/development2.jpg
+image10: assets/images/jaconda-9.png
+logo: assets/images/logo2non.png
+logo2: assets/images/logo2white.png
+logojekyll1: assets/images/jekyll-logo-black-red-transparent.png
+logojekyll2: assets/images/jekyll-logo-light-transparent.png
+logojekyll3: assets/images/jekyll-logo-dark-solid.png
 
 ###   FOOTER    ###
 #//////////////////////////////////////////////////////////////////////////////
@@ -59,7 +59,7 @@ footer3-3: Github
 
 copyright1:  love for a better future
 copyright2: 2021 Creative AML. All rights reserved. Made with
-love: /assets/icons/favorite_black_24dp.svg
+love: assets/icons/favorite_black_24dp.svg
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
@@ -106,17 +106,9 @@ part5-titulo: Our technologies
 part5-parrafo: We use the most relevant technologies, trending designs, components, frameworks and libraries to make your projects unique and useful in every aspect, if you are a developer you can find an easy implementation with our templates.
 
 ### LOGOS ###
-logo1: /assets/logos/vue.png
-logo2: /assets/logos/node.png
-logo3: /assets/logos/mongo.jpg
-logo4: /assets/logos/alexa.png
-logo5: /assets/logos/bootstrap.jpg
-logo6: /assets/logos/inkscape.svg
-logo7: /assets/logos/gimp.jpg
-logo8: /assets/logos/photoshop.png
-logo9: /assets/logos/creativeaml2.png
-logo10: /assets/logos/creativeaml1.png
-logo11: /assets/logos/creativeaml3.png
+logo9: assets/logos/creativeaml2.png
+logo10: assets/logos/creativeaml1.png
+logo11: assets/logos/creativeaml3.png
 ### BUTTONS ###
 button1: View more
 ---
