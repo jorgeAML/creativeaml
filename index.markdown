@@ -10,9 +10,9 @@ navSectionA: services
 
 ### NAV CONTENTS
 section0: Creative AML
-section1: Social
-section2: About me
-section3: Histories
+section1: Redes Sociales
+section2: Acerca de mi
+section3: Historias
 
 section2-1: Design
 section2-2: Development
@@ -28,7 +28,7 @@ image4: assets/images/alexa2.jpg
 image5: assets/images/responsive.jpg
 image9: assets/images/training.jpg
 image6: assets/images/phone.jpg
-image7: assets/images/phones1.png
+image7: assets/images/header.jpg
 image8: assets/images/development2.jpg
 image10: assets/images/jaconda-9.png
 logo: assets/images/logo2non.png
@@ -61,7 +61,7 @@ love: assets/icons/favorite_black_24dp.svg
 ###   END FOOTER   ###
 
 ### DESCRIPTION
-descriptionTitle: Development, design, artificial intelligence is the strongest habilities in Creative AML, navigate below to know more about us and what we do!
+descriptionTitle: El llamado del código
 
 descriptionDesign: In Creative AML the design for us is special in every corner of every project, the architecture of a website we always use an unique concepts art.
 descriptionSection2-2: We develop small and large projects is you, that set the path of every task, is your imagination the only limit that we have.

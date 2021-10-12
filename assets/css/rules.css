@@ -19,7 +19,7 @@
     --background-gradient-g: linear-gradient(-45deg, #5581F1 0%, #1153FC 100%);
     --background-gradient-h: linear-gradient(-45deg, #00F7A7 0%, #04F5ED 100%);
     --background-gradient-i: linear-gradient(-45deg, #FFE324 0%, #FFB533 100%);
-    --background-gradient-j: linear-gradient(-45deg, #F54864 0%, #F78361 100%);
+    --background-gradient-j: linear-gradient(-45deg,  	#eeeeee 0%, #fcfcfc 100%);
 
     /*CORPORATE AND SERIUS COLORS*/
     --c-color-a: #3e4f59;
@@ -52,6 +52,10 @@
 @font-face {
     font-family: 'NatureBeauty';
     src: url('Fonts/Nature_Beauty.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Starboard';
+    src: url('Fonts/Starboard.otf');
 }
 
 body {
