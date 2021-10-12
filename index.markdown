@@ -11,11 +11,8 @@ navSectionA: services
 ### NAV CONTENTS
 section0: Creative AML
 section1: HOME
-section2: About us
-section3: Blog
-section4: Contact us
-section5: Pricing
-section6: Features
+section2: ABOUT ME
+section3: CONTACT ME
 
 section2-1: Design
 section2-2: Development
