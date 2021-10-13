@@ -57,6 +57,10 @@
     font-family: 'Starboard';
     src: url('Fonts/Starboard.otf');
 }
+@font-face {
+    font-family: 'Heavitas';
+    src: url('Fonts/Heavitas.ttf') format('truetype');
+}
 
 body {
     margin: 0;
