@@ -40,9 +40,9 @@
     .container-two-child:nth-child(1) > p {
         font-family: 'Mont';
         color: var(--color-white);
-        font-size: 0.2em;
+        font-size: 1.2em;
         text-align: center;
-        margin: 10% 5% 0 5%;
+        margin: 1% 5% 0 5%;
         font-weight: bold;
     }
     /*SECTION PART1*/
