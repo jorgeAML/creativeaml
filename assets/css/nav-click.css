@@ -1,7 +1,7 @@
 @media only screen and (min-device-width:1200px) {
   #nav {
     margin: 0;
-    font-family: 'NatureBeauty';
+    font-family: 'Grobe deutch';
     font-size: 1.5em;
     padding: 1%;
   }
@@ -9,7 +9,7 @@
     box-shadow: 1px 1px 3px 1px	#900603;
     background-image: var(--background-gradient-j);
     background-color:  	#fcfcfc;
-    border-bottom: 2px solid #fc6a5f;
+    border-bottom: 2px solid #c7cec4;
   }
   .container-nav {
     display: flex;

@@ -21,11 +21,20 @@
         flex: 2 1 50%;
     }
     .container-two-child:nth-child(1) > h1 {
-        font-family: 'Heavitas';
+        font-family: 'Grobe deutch';
         color: var(--color-white);
         text-align: left;
         margin: 15% 0 0 0;
-        padding: 0 0 0 5%;
+        padding: 0;
+        font-size: 3em;
+    }
+    .container-two-child:nth-child(1) > p {
+        font-family: 'Mont';
+        color: var(--color-white);
+        font-size: 1.5em;
+        text-align: center;
+        margin: 0 5% 0 5%;
+        font-weight: bold;
     }
     header {
         background-image: url("../images/header.jpg");
@@ -34,7 +43,7 @@
         background-repeat: no-repeat;
         position: relative;
         min-height: 100vh;
-        background-color: #89878a;
+        background-color:  	#900603;
         background-blend-mode: soft-light;
     }
 

@@ -61,7 +61,22 @@
     font-family: 'Heavitas';
     src: url('Fonts/Heavitas.ttf') format('truetype');
 }
-
+@font-face {
+    font-family: 'Grobe deutch';
+    src: url('Fonts/GrobeDeutschmeister.ttf');
+}
+@font-face {
+    font-family: 'Old deutchland';
+    src: url('Fonts/OldDeutschland.ttf');
+}
+@font-face {
+    font-family: 'Autobahn';
+    src: url('Fonts/Autobahn.ttf');
+}
+@font-face {
+    font-family: 'Mont';
+    src: url('Fonts/Mont-ExtraLightDEMO.otf');
+}
 body {
     margin: 0;
     height: 100%;
