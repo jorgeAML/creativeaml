@@ -7,7 +7,6 @@
   }
   .nav {
     box-shadow: 1px 1px 3px 1px	#900603;
-    background-image: var(--background-gradient-j);
     background-color:  	#fcfcfc;
     border-bottom: 2px solid #c7cec4;
   }

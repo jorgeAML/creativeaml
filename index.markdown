@@ -10,7 +10,7 @@ navSectionA: services
 
 ### NAV CONTENTS
 section0: Creative AML
-section1: Noticias
+section1: Artículos
 section2: Acerca de mi
 section3: Redes Sociales
 

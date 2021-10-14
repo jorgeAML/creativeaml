@@ -45,11 +45,12 @@
         min-height: 100vh;
         background-color:  	#900603;
         background-blend-mode: soft-light;
+        box-shadow: 1px 1px 20px 5px #900603;
     }
 
     /**SECTION DESIGN */
-    .design-content {
-        margin: -50px 0 0 0;
+    #part2 {
+        margin: 5% 0 0 0;
     }
     .container-column-total {
         display: flex;
