@@ -47,8 +47,8 @@ footer1-1: About us
 footer1-2: Blog
 footer1-3: Contact us
 
-footer2-1: Terms & conditions
-footer2-2: Privacy policy
+footer2-1: Terminos y condiciones
+footer2-2: Politica de privacidad
 
 footer3-1: Instagram
 footer3-2: Twitter
