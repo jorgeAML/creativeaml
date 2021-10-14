@@ -22,14 +22,14 @@ section2-5: Training
 
 ### IMAGES
 image1: assets/images/cyborg-107.png
-image2: assets/images/development.jpg
-image3: assets/images/alexa1.jpg
+image2: assets/images/flame-remote-working.png
+image3: assets/images/purr-vacuum-cleaner-failure.png
 image4: assets/images/alexa2.jpg
-image5: assets/images/responsive.jpg
-image9: assets/images/training.jpg
+#image5: assets/images/responsive.jpg
 image6: assets/images/phone.jpg
 image7: assets/images/header.jpg
-image8: assets/images/development2.jpg
+#image8: assets/images/development2.jpg
+#image9: assets/images/training.jpg
 image10: assets/images/jaconda-9.png
 logo: assets/images/logo2non.png
 logo2: assets/images/logo2white.png
@@ -67,10 +67,10 @@ descriptionA: El caso de competición de IBM enfocado en brindar a estudiantes d
 ### PART 2 ###
 part2-carta1-titulo: Caso de Competición
 part2-carta1-parrafo: Inovando en la educación en Guatemala. Diseñando una solución inovativa y tecnologica que ayude a resolver o alinearse al problema de una educación accesible, equitativa y de calidad para todos.
-part2-carta2-titulo: Web development
-part2-carta2-parrafo: We develop full stack applications using Vue.js and Node.js and provide DNS for projects and extensions like .com you can see the jobs that we made below.
-part2-carta3-titulo: Alexa skills
-part2-carta3-parrafo: Amazon Alexa skills is an artificial intelligence that we know how to use, we make skills for Alexa, sometimes for fun or for bussines, check our skills that we made.
+part2-carta2-titulo: Ángulos y razonamientos
+part2-carta2-parrafo: Hace tiempo y muchos de nosotros hemos aprendido sobre los ángulos y como calcularlos pero he acá algunos ejemplos sobre lo profundo de este tema.
+part2-carta3-titulo: ¿Qué es una recta, al final? 
+part2-carta3-parrafo: Una infinidad de puntos llevados al límite, pero será que podremos encontrar su último punto de esa recta o sólo llegaremos a una aproximación.
 
 ### PART 3 ###
 part3-carta1-titulo: Databases
