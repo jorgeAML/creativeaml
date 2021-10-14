@@ -25,7 +25,7 @@
     --c-color-a: #3e4f59;
     --c-color-b: #72cccd;
     --c-color-c: #06aaac;
-    --c-color-d: #cc0000;
+    --c-color-d: #900603;
     --c-color-e: #454547;
     --c-color-f: #1b1b1b;
     --c-color-g: #e0e0e0;
@@ -86,7 +86,7 @@ body {
     font-family: var(--font-kant);*/
            background-color: #ffffff;
   }
-h1 {
+h1, h3, h2 {
     font-family: 'Grobe deutch';
     color: var(--c-color-link2);
 }
@@ -169,13 +169,13 @@ footer {
 }
 .button-simple-1 > a, .button-simple-2 > a {
     color: var(--c-color-f);
-    font-family: var(--font-kant);
+    font-family: 'Mont';
     padding: 1%;
     text-decoration: none;
     font-weight: bold;
 }
 .button-simple-1 > a:hover{
-    color: var(--c-color-c);
+    color: var(--c-color-o);
 }
 .button-simple-2 {
     background-color: transparent;
@@ -234,4 +234,11 @@ footer {
 /*MARGENES*/
 .margin-t-4 {
     margin-top: -4%;
+}
+.kit-3 {
+    width: 100%;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
 }

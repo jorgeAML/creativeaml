@@ -21,7 +21,7 @@ section2-4: Responsive Web Design
 section2-5: Training
 
 ### IMAGES
-image1: assets/images/designA1.jpg
+image1: assets/images/cyborg-107.png
 image2: assets/images/development.jpg
 image3: assets/images/alexa1.jpg
 image4: assets/images/alexa2.jpg
@@ -69,17 +69,9 @@ descriptionSection2-3: We can develop special apps like Alexa, that use artifici
 descriptionSection2-4: For Creative AML and every app or website that we built, we take seriously the responsive web design taking the principles on material design from Google.
 descriptionSection2-5: If you want to take part of our journey, you are welcome, and we going to help you to find your goals. For the moment we teach front-end developemnt and back-end development and in the future ethical hacking.
 
-### PART 1 ###
-part1-titulo1: Easy to customize
-part1-parrafo1: You want to update your old project, we take it simple with easy integration with the new technologies and your own customization.
-part1-titulo2: Awesome design
-part1-parrafo2: We love to design new projects sometimes from scratch and sometime from a template, but we take care seriously the design concept.
-part1-titulo3: Easy to use
-part1-parrafo3: Every project that we made will be easy to use and understand in every aspect for the clients, and do not forget to write us for special project.
-
 ### PART 2 ###
-part2-carta1-titulo: Design
-part2-carta1-parrafo: We design template for web development, beautiful, simple and useful for every project. Whether you want to download or see our work click on the button below.
+part2-carta1-titulo: Caso de Competición
+part2-carta1-parrafo: Inovando en la educación en Guatemala. Diseñando una solución inovativa y tecnologica que ayude a resolver o alinearse al problema de una educación accesible, equitativa y de calidad para todos.
 part2-carta2-titulo: Web development
 part2-carta2-parrafo: We develop full stack applications using Vue.js and Node.js and provide DNS for projects and extensions like .com you can see the jobs that we made below.
 part2-carta3-titulo: Alexa skills
@@ -107,7 +99,7 @@ logo9: assets/logos/creativeaml2.png
 logo10: assets/logos/creativeaml1.png
 logo11: assets/logos/creativeaml3.png
 ### BUTTONS ###
-button1: View more
+button1: Seguir leyendo
 ---
  
 
