@@ -92,7 +92,6 @@
         position: relative;
         box-shadow: var(--shadow-general);
     }
-    
     .container-30 {
         flex: 1 1 30%;
         border-radius: 15px;
@@ -162,24 +161,25 @@
     .material-icons {
         padding-left: 5%;
     }
+    /*CARTAS*/
     .card-design-1 {
-        background-color: var(--c-color-i);
-        border-radius: 15px;
+        background-color: var(--c-color-white);
+        border-radius: 20px;
         margin: 1%;
-        box-shadow: 0px 1.2px 3.2px 0.2px #b2abb5;
-        border: 1px solid #dbdcff;
-        transition: 0.3s; 
+        box-shadow: 0px 3px 50px -26px #b2abb5;
+        transition: 0.1s; 
     }
     .card-design-1 > img {
-        width: 100%;
+        width: 90%;
         height: 200px;
         position: relative;
-        top: 0;
-        left: 0;
-        border-top-left-radius: 15px;
-        border-top-right-radius: 15px;
+        top: 15px;
+        left: 5%;
+        margin: 0;
+        border-radius: 20px;
         object-fit: cover;
-        border-bottom: 1px dashed #b2abb5;
+        box-shadow: 0px 1px 15px -5px rgba(184,159,159,0.75);;
+        background-blend-mode: soft-light;
     }
     .card-design-1 > h6 {
         line-height: 0.1px;
@@ -189,13 +189,12 @@
         margin: 0 0 5% 5%;
     }
     .card-design-1:hover {
-        box-shadow: 0px 3px 148px -26px rgba(184,159,159,0.75);
-        -webkit-box-shadow: 0px 3px 148px -26px rgba(184,159,159,0.75);
-        -moz-box-shadow: 0px 3px 148px -26px rgba(184,159,159,0.75);
-        transform: scale(1.05,1.05);
+        box-shadow: 0px 15px 50px -26px rgba(184,159,159,0.75);
+        -webkit-box-shadow: 0px 15px 50px -26px rgba(184,159,159,0.75);
+        -moz-box-shadow: 0px 15px 50px -26px rgba(184,159,159,0.75);
     }
     .card-design-1::after {
-        transition-duration: 0.8s;
+        transition-duration: 0.5s;
     }
     /*///////////////////////////////////
     PARTE 4 SECTION
