@@ -66,7 +66,7 @@
     }
     .container-row {
         display: flex;
-        flex-flow: row wrap;
+        flex-flow: row nowrap;
         justify-content: center;
         align-items: flex-start;
         margin: 0;
@@ -166,8 +166,8 @@
         background-color: var(--c-color-white);
         border-radius: 20px;
         margin: 1%;
-        box-shadow: 0px 3px 50px -26px #b2abb5;
-        transition: 0.1s; 
+        box-shadow: 5px 5px 50px -26px #b2abb5;
+        transition: 0.5s; 
     }
     .card-design-1 > img {
         width: 90%;

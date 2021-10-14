@@ -55,7 +55,7 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright1:  love for a better future
-copyright2: 2021 Creative AML. All rights reserved. Made with
+copyright2: 2021 Creative AML. Derechos reservados. Hecho con
 love: assets/icons/favorite_black_24dp.svg
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
@@ -63,11 +63,6 @@ love: assets/icons/favorite_black_24dp.svg
 ### DESCRIPTION
 descriptionTitle: El llamado del código - casos en inovación en la educación 2021
 descriptionA: El caso de competición de IBM enfocado en brindar a estudiantes diseños de soluciones que hagan una educación un derecho no un privilegio. Conoce más sobre este caso y mis ideas para esta competición.
-descriptionDesign: In Creative AML the design for us is special in every corner of every project, the architecture of a website we always use an unique concepts art.
-descriptionSection2-2: We develop small and large projects is you, that set the path of every task, is your imagination the only limit that we have.
-descriptionSection2-3: We can develop special apps like Alexa, that use artificial intelligence and machine learning this apps are for fun or business application.
-descriptionSection2-4: For Creative AML and every app or website that we built, we take seriously the responsive web design taking the principles on material design from Google.
-descriptionSection2-5: If you want to take part of our journey, you are welcome, and we going to help you to find your goals. For the moment we teach front-end developemnt and back-end development and in the future ethical hacking.
 
 ### PART 2 ###
 part2-carta1-titulo: Caso de Competición
