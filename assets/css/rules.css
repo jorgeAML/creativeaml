@@ -100,9 +100,6 @@ a {
     text-decoration: none;
     color: var(--c-color-link2);
 }
-a:visited {
-    color: var(--c-color-link2);
-}
 a:hover {
     color: var(--c-color-d);
 }

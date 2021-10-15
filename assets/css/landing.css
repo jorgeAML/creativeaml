@@ -75,8 +75,8 @@
     .container-nowrap {
         display: flex;
         flex-flow: row nowrap;
-        justify-content: center;
-        align-items: flex-start;
+        justify-content: left;
+        align-items: stretch;
     }
     
     .container-70 {
@@ -179,8 +179,7 @@
         margin: 0;
         border-radius: 20px;
         object-fit: cover;
-        box-shadow: 0px 1px 15px -5px rgba(184,159,159,0.75);;
-        background-blend-mode: soft-light;
+        box-shadow: 0px 1px 15px -5px rgba(184,159,159,0.75);
     }
     .card-design-1 > h6 {
         line-height: 0.1px;
@@ -201,8 +200,37 @@
     PARTE 4 SECTION
     /////////////////////////////////////*/
     .jaconda {
-        width: 100%;
+        border-radius: 10%;
+        width: 30%;
+        height: 30%;
+        margin: 2%;
+        border: 2px solid var(--color-white);
+        object-fit: cover;
+        box-shadow: 0px 1px 15px -5px rgba(184,159,159,0.75);
     }
+    .jaconda-container {
+        order: 1;
+        flex: 1 5 30%;
+        margin-right: -50%;
+        
+    }
+    .me-container {
+        order: 2;
+        flex: 1 1 10%;
+    }
+    .me-container > p {
+        width: 800px;
+    }
+    .tags {
+        border-radius: 5px;
+        color: var(--c-color-p) 
+    }
+    .tags-margin {
+        margin: 0 1px 15px 1px;
+    }
+    /*///////////////////////////////////
+    PARTE 4 SECTION FINALIZA
+    /////////////////////////////////////*/
     .align-right {
         text-align: right;
     }
@@ -242,8 +270,7 @@
         align-self: center;
     }
     .column4 {
-        flex: 1 1 25%;
-        align-items: center;
+        flex: 1 1 auto;
     }
     .fontSize2 {
         font-size: 1.5em;

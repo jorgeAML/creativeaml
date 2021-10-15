@@ -30,7 +30,7 @@ image6: assets/images/phone.jpg
 image7: assets/images/header.jpg
 #image8: assets/images/development2.jpg
 #image9: assets/images/training.jpg
-image10: assets/images/jaconda-9.png
+image10: assets/images/catame.jpg
 logo: assets/images/logo2non.png
 logo2: assets/images/logo2white.png
 logojekyll1: assets/images/jekyll-logo-black-red-transparent.png
@@ -81,9 +81,8 @@ part3-carta3-titulo: Blockchain
 part3-carta3-parrafo: Build with us the new generation of the internet, explore our resources, projects and advices from our experiences using this technologies.
 
 ### PART 4 ###
-part4-titulo: More about us
-part4-legend: Creative AML begun his journey in 2014 as a music productions and design. Years were going through and the company was almost broke with a project called "Medicina Resources" that project was large and highly expensive for maintain, with a little budget.
-part4-legend2: After five years Creative AML came back with more resources and ambicious projects for humanity and now with a team with more knowledge.
+part4-titulo: Acerca de mi
+part4-legend: Apasionado por la tecnología, inovando y compartiendo conocimiento, creador de proyectos, humanitario, constructor, comunicador y diseñador, pero mis áreas más fuertes son las últimas dos. Un estudiante eterno pero mucho más avanzado. Analítico sobre todo en las áreas de las matemáticas. El curso que más me ha gustado fue la Histología y la Química.
 
 ### PART 5 ###
 part5-titulo: Our technologies
