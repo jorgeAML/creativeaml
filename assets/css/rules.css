@@ -78,6 +78,10 @@
     font-family: 'Mont';
     src: url('Fonts/Mont-ExtraLightDEMO.otf');
 }
+@font-face {
+    font-family: 'Cavas Nera';
+    src: url('Fonts/CavasNeraFree.ttf');
+}
 body {
     margin: 0;
     height: 100%;

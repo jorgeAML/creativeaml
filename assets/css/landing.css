@@ -223,7 +223,8 @@
     }
     .tags {
         border-radius: 5px;
-        color: var(--c-color-p) 
+        color: var(--c-color-p);
+        font-family: 'Heavitas';
     }
     .tags-margin {
         margin: 0 1px 15px 1px;
