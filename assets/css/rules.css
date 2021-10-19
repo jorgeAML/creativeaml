@@ -149,7 +149,6 @@ a:active {
     transform: rotate(-5deg) scale(1);
 }
 footer {
-    background-color: var(--c-color-i);
     margin-top: 10%;
     border-top: 2px solid var(--c-color-g);
 }
@@ -243,4 +242,7 @@ footer {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
     overflow: hidden;
+}
+ul > li > a {
+    font-family: 'Mont';
 }

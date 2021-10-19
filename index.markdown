@@ -39,13 +39,11 @@ logojekyll3: assets/images/jekyll-logo-dark-solid.png
 
 ###   FOOTER    ###
 #//////////////////////////////////////////////////////////////////////////////
-footer-titulo1: Company
+footer-titulo1: Intereses
 footer-titulo2: Legal
 footer-titulo3: Social
 
-footer1-1: About us
-footer1-2: Blog
-footer1-3: Contact us
+footer1-1: Archivos
 
 footer2-1: Terminos y condiciones
 footer2-2: Politica de privacidad
@@ -54,9 +52,10 @@ footer3-1: Instagram
 footer3-2: Twitter
 footer3-3: Github
 
-copyright1:  love for a better future
-copyright2: 2021 Creative AML. Derechos reservados. Hecho con
-love: assets/icons/favorite_black_24dp.svg
+#copyright1:  love for a better future
+copyright2: 2021 Creative AML. Derechos reservados. Hecho con Jekyll
+actualizacion: Ultima actualizacion 19.10.2021
+#love: assets/icons/favorite_black_24dp.svg
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
@@ -84,14 +83,8 @@ part3-carta3-parrafo: Build with us the new generation of the internet, explore 
 part4-titulo: Acerca de mi
 part4-legend: Apasionado por la tecnología, inovando y compartiendo conocimiento, creador de proyectos, humanitario, constructor, comunicador y diseñador, pero mis áreas más fuertes son las últimas dos. Un estudiante eterno pero mucho más avanzado. Analítico sobre todo en las áreas de las matemáticas. El curso que más me ha gustado fue la Histología y la Química.
 
-### PART 5 ###
-part5-titulo: Our technologies
-part5-parrafo: We use the most relevant technologies, trending designs, components, frameworks and libraries to make your projects unique and useful in every aspect, if you are a developer you can find an easy implementation with our templates.
-
 ### LOGOS ###
 logo9: assets/logos/creativeaml2.png
-logo10: assets/logos/creativeaml1.png
-logo11: assets/logos/creativeaml3.png
 ### BUTTONS ###
 button1: Seguir leyendo
 ---
