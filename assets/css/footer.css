@@ -1,12 +1,19 @@
 @media (min-width: 1200px) {
     #logo-copy {
-        margin-top: 0;
+        margin: -15% 0 0 -50%;
+        align-items: left;
     }
     ul {
-        list-style-type: none;
+        list-style-type: square;
+    }
+    ul {
+        font-family: 'Mont';
     }
     .love > img {
-        height: 20px;
+        width: 10px;
+    }
+    .logoF {
+        width: 7%;
     }
 }
 @media only screen and (max-width: 650px) {

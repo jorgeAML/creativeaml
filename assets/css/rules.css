@@ -150,7 +150,7 @@ a:active {
 }
 footer {
     margin-top: 10%;
-    border-top: 2px solid var(--c-color-g);
+    border-top: 2px solid var(--c-color-p);
 }
 .col-2 {
     flex: 1 1 40%;
