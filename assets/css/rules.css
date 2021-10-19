@@ -161,12 +161,12 @@ footer {
 .button-simple-1 {
     background-color: transparent;
     border: none;
-    display: block;
-    width: 30%;
+    text-align: center;
+    width: 50%;
 }
 .button-simple-1:hover {
     border: none;
-    width: 30%;
+    width: 50%;
 }
 .button-simple-1 > a, .button-simple-2 > a {
     color: var(--c-color-f);

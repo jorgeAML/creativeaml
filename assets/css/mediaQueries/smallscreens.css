@@ -45,23 +45,23 @@
     /*///////////////////////////////////
     PARTE 2 SECTION
     /////////////////////////////////////*/
+    
     .card-design-1 {
-        background-color: var(--c-color-i);
-        border-radius: 15px;
-        margin: 5%;
-        box-shadow: 0px 1.2px 3.2px 0.2px #b2abb5;
-        border: 1px solid #dbdcff;
+        background-color: var(--c-color-white);
+        border-radius: 20px;
+        margin: 1%;
+        box-shadow: 5px 5px 50px -26px #b2abb5;
     }
     .card-design-1 > img {
-        width: 100%;
+        width: 90%;
         height: 200px;
         position: relative;
-        top: 0;
-        left: 0;
-        border-top-left-radius: 15px;
-        border-top-right-radius: 15px;
+        top: 15px;
+        left: 5%;
+        margin: 0;
         object-fit: cover;
-        border-bottom: 1px dashed #b2abb5;
+        border-radius: 20px;
+        box-shadow: 0px 1px 15px -5px rgba(184,159,159,0.75);
     }
     .card-design-1 > h6 {
         line-height: 0.1px;
