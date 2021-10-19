@@ -30,7 +30,7 @@ image6: assets/images/phone.jpg
 image7: assets/images/header.jpg
 #image8: assets/images/development2.jpg
 #image9: assets/images/training.jpg
-image10: assets/images/catame.jpg
+image10: assets/images/moscow.jpg
 logo: assets/images/logo2non.png
 logo2: assets/images/logo2white.png
 logojekyll1: assets/images/jekyll-logo-black-red-transparent.png
