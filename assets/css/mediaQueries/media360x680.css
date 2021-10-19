@@ -136,7 +136,7 @@
         align-items: center;
     }
     .tags {
-        border: 1px solid var(--c-color-e);
+        border: 2px solid var(--c-color-p);
         padding: 5%;
         border-radius: 5px;
     }

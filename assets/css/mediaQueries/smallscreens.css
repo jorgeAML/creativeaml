@@ -82,8 +82,28 @@
     /*///////////////////////////////////
     PARTE 4 SECTION
     /////////////////////////////////////*/
+    .jaconda-container {
+        order: 1;
+        flex: 1 5 30%;
+        margin-right: -50%;
+    }
     .jaconda {
-        width: 100%;
+        border-radius: 10%;
+        width: 60%;
+        margin: 2%;
+        border: 2px solid var(--color-white);
+        object-fit: cover;
+    }
+    .me-container {
+        order: 2;
+        flex: 1 1 10%;
+    }
+    .me-container > p {
+        width: auto;
+        margin: 8%;
+    }
+    .me-container > h1 {
+        margin: 0 0 0 5%;
     }
     .align-right {
         text-align: right;
