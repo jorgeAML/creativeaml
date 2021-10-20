@@ -70,14 +70,6 @@ part2-carta2-parrafo: Hace tiempo y muchos de nosotros hemos aprendido sobre los
 part2-carta3-titulo: ¿Qué es una recta, al final? 
 part2-carta3-parrafo: Una infinidad de puntos llevados al límite, pero será que podremos encontrar su último punto de esa recta o sólo llegaremos a una aproximación.
 
-### PART 3 ###
-part3-carta1-titulo: Databases
-part3-carta1-parrafo: We can manage and design your schemas for your databases, we have experience making databases using MongoDB, Neo4j, PostgreSQL.
-part3-carta2-titulo: Training
-part3-carta2-parrafo: We love to teach what we know, if you want to be part of us or just to want to be good enough, do not overhelming just see our courses and tutorials that we made for you.
-part3-carta3-titulo: Blockchain
-part3-carta3-parrafo: Build with us the new generation of the internet, explore our resources, projects and advices from our experiences using this technologies.
-
 ### PART 4 ###
 part4-titulo: Acerca de mi
 part4-legend: Apasionado por la tecnología, inovando y compartiendo conocimiento, creador de proyectos, humanitario, constructor, comunicador y diseñador, pero mis áreas más fuertes son las últimas dos. Un estudiante eterno pero mucho más avanzado. Analítico sobre todo en las áreas de las matemáticas. El curso que más me ha gustado fue la Histología y la Química.
