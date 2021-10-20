@@ -44,6 +44,7 @@ footer-titulo2: Legal
 footer-titulo3: Social
 
 footer1-1: Archivos
+footer1-2: Mapa del sitio
 
 footer2-1: Terminos y condiciones
 footer2-2: Politica de privacidad
@@ -52,10 +53,8 @@ footer3-1: Instagram
 footer3-2: Twitter
 footer3-3: Github
 
-#copyright1:  love for a better future
 copyright2: 2021 Creative AML. Derechos reservados. Hecho con Jekyll
 actualizacion: Ultima actualizacion 19.10.2021
-#love: assets/icons/favorite_black_24dp.svg
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
