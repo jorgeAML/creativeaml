@@ -1,6 +1,6 @@
 @media only screen and (max-width: 675px) {
-    header {
-        background-image: url("../images/header.jpg");
+    .site-header {
+        background-image: var(--image-header);
         background-size: cover;
         background-position: 50%;
         background-repeat: no-repeat;

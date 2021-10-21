@@ -7,7 +7,7 @@ section1: Inicio
 section2: Términos y condiciones
 section4: Contacto
 
-date: 14.10.2021
+date: 21.10.2021
 
 ###   FOOTER    ###
 #//////////////////////////////////////////////////////////////////////////////

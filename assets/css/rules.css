@@ -1,4 +1,7 @@
 :root {
+    /*Images*/
+    --image-header: url("../images/header.jpg");
+    --image-back: url("../images/header.jpg");
     --font-kant: 'Kanit', sans-serif;
     --font-frederika: 'Fredericka the Great', cursive;
     --font-bungeeShade: 'Bungee Shade', cursive;

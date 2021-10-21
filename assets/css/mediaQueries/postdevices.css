@@ -1,9 +1,10 @@
 @media (min-width:320px) and (max-width:680px) {
     .post-design {
-        background-color: var(--c-color-j);
-        border: 2px solid var(--c-color-g);
+        background-color: var(--color-white);
+        border: 4px solid var(--c-color-p);
         box-shadow: var(--shadow-blog);
         margin: 5% 0 0 0;
+        border-radius: 15px;
     }
     .post-design > h5 {
         color: var(--c-color-g);

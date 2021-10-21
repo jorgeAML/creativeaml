@@ -7,7 +7,7 @@ section1: Home
 section2: About us
 section4: Contact us
 
-date: 14.10.2021
+date: 21.10.2021
 
 ###   FOOTER    ###
 #//////////////////////////////////////////////////////////////////////////////
