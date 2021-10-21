@@ -48,7 +48,7 @@
     --shadow-general: 1px 1px 20px 3px var(--c-color-e);
     --shadow-toBack: 1px 1px 5px 1px var(--c-color-a);
     --shadow-light: 0px 1px 1px 1px #F54864;
-    --shadow-blog: 0px 1.2px 3.5px var(--c-color-m);
+    --shadow-blog: 0px 1.2px 3.5px var(--c-color-g);
 }
 @font-face {
     font-family: 'NatureBeauty';

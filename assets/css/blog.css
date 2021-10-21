@@ -22,10 +22,6 @@
     justify-content: center;
     margin: 0 0 0 0;
 }
-.nav-aml {
-    border-bottom: 3px solid var(--c-color-g);
-    padding: 1%;
-}
   #first {
     margin: 5% 0 0 0;
   }

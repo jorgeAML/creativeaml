@@ -5,6 +5,22 @@
     font-size: 1.5em;
     padding: 1%;
   }
+  .nav-a {
+    border-bottom: 2px solid var(--c-color-g);
+    padding: 15px;
+    font-family: 'Grobe deutch';
+    font-size: 1.6rem;
+    background-image: url("../images/header.jpg");
+    object-fit: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-color:#900603;
+    background-blend-mode: difference;
+  }
+  .nav-a-l {
+    color: var(--color-white);
+  }
   .nav {
     box-shadow: 1px 1px 3px 1px	#900603;
     background-color:  	#fcfcfc;
