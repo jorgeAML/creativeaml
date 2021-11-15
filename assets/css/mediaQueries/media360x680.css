@@ -38,7 +38,7 @@
         font-size: 2.2em;
     }
     .container-two-child:nth-child(1) > p {
-        font-family: 'Mont';
+        font-family: var(--fontMontserrat);
         color: var(--color-white);
         font-size: 1.2em;
         text-align: center;

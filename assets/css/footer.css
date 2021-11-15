@@ -7,7 +7,7 @@
         list-style-type: square;
     }
     ul {
-        font-family: 'Mont';
+        font-family: var(--fontMontserrat);
     }
     .love > img {
         width: 10px;

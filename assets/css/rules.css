@@ -1,5 +1,6 @@
 :root {
     /*Images*/
+    --fontMontserrat: 'Montserrat Alternates', sans-serif;
     --image-header: url("../images/header.jpg");
     --image-back: url("../images/header.jpg");
     --font-kant: 'Kanit', sans-serif;
@@ -78,10 +79,6 @@
     src: url('Fonts/Autobahn.ttf');
 }
 @font-face {
-    font-family: 'Mont';
-    src: url('Fonts/Mont-ExtraLightDEMO.otf');
-}
-@font-face {
     font-family: 'Cavas Nera';
     src: url('Fonts/CavasNeraFree.ttf');
 }
@@ -99,7 +96,7 @@ h1, h3, h2 {
     color: var(--c-color-link2);
 }
 p {
-    font-family: 'Mont';
+    font-family: var(--fontMontserrat);
     font-weight: bold;
     color: var(--c-color-link2);
 } 
@@ -173,7 +170,7 @@ footer {
 }
 .button-simple-1 > a, .button-simple-2 > a {
     color: var(--c-color-f);
-    font-family: 'Mont';
+    font-family: var(--fontMontserrat);
     padding: 1%;
     text-decoration: none;
     font-weight: bold;
@@ -247,5 +244,5 @@ footer {
     overflow: hidden;
 }
 ul > li > a {
-    font-family: 'Mont';
+    font-family: var(--fontMontserrat);
 }
