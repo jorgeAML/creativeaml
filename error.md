@@ -1,5 +1,5 @@
 ---
-permalink: /404.html
+permalink: /error.html
 layout: error
 
 title: error 404

@@ -244,5 +244,5 @@ footer {
     overflow: hidden;
 }
 ul > li > a {
-    font-family: 'Mont';
+    font-family: var(--fontMontserrat);
 }

@@ -21,9 +21,9 @@ section2-4: Responsive Web Design
 section2-5: Training
 
 ### IMAGES
-image1: assets/images/cyborg-107.png
-image2: assets/images/flame-remote-working.png
-image3: assets/images/purr-vacuum-cleaner-failure.png
+image1: assets/images/A1.png
+image2: assets/images/A2.png
+image3: assets/images/A3.png
 image4: assets/images/alexa2.jpg
 #image5: assets/images/responsive.jpg
 image6: assets/images/phone.jpg
