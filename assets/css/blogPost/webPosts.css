@@ -1,0 +1,25 @@
+@media (min-width: 1200px) {
+    .container-post {
+        margin: 3% 5% 3% 5%;
+        border: 2px dashed var(--c-color-j);
+        border-radius: 15px;
+        padding: 1%;
+    }
+    .der-container, .izq-container {
+        padding: 5%;
+    }
+    .izq {
+        order: 1;
+        flex: 1 1 70%;
+    }
+    .der {
+        order: 2;
+        flex: 1 1 30%;
+    }
+    q {
+        color: var(--c-color-d);
+    }
+    .center {
+        text-align: center;
+    }
+}

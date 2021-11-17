@@ -2,11 +2,31 @@
 <html lang="en-us">
     <head>
         <title>{{page.title}}</title>
+        <meta property="og:title" content="{{page.section0}}"/>
+        <meta name="description" content="{{page.metaDescripcion}}">
         {% include head2.html %}
     </head>
     <body>
-        <div>
-          
+        <div class="container-post">
+          <div class="row">
+            <div class="container-two">
+              <div class="izq">
+                <div class="izq-container card-design-1">
+                  <h1>{{page.tituloPost}}</h1>
+                  <p>{{page.contenidoPostA}}</p>
+                </div>
+              </div>
+              <div class="der">
+                <div class="der-container card-design-1">
+                  <h2 class="center">{{page.tarjetaTitulo}}</h2>
+                  <p>{{page.tarjetaContenido}}</p>
+                  <p>Fecha: {{page.tarjetaFecha}}</p>
+                  <p>Publicado por: {{page.tarjetaCreador}}</p>
+                  <p>Tags: <q>{{page.tarjetaTags}}</q></p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
     </body>
 </html>
