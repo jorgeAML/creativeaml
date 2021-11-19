@@ -1,7 +1,7 @@
 @media (min-width: 1200px) {
     .container-post {
         margin: 3% 5% 3% 5%;
-        border: 2px dashed var(--c-color-j);
+        border: 2px dashed var(--c-color-g);
         border-radius: 15px;
         padding: 1%;
     }
