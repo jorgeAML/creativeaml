@@ -5,6 +5,29 @@
         border-radius: 15px;
         padding: 1%;
     }
+    .container-two-post {
+        display: flex;
+    }
+    #row-tags-post {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        align-items: baseline;
+        gap: 2px;
+    }
+    #row-tags-post > div:nth-child(6) > p {
+        margin-bottom: 5px;
+    }
+    .tag-post {
+        margin: -10px 3px 0 3px;
+        border: 2px solid var(--c-color-i);
+        border-radius: 5px;
+        padding: 5px;
+        background-color: var(--c-color-a);
+        font-family: monospace;
+        color: var(--c-color-p);
+        font-weight: bold;
+    }
     .der-container, .izq-container {
         padding: 5%;
     }

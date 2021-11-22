@@ -97,7 +97,6 @@ h1, h3, h2 {
 }
 p {
     font-family: var(--fontMontserrat);
-    font-weight: bold;
     color: var(--c-color-link2);
 } 
 a {

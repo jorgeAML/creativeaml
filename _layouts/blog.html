@@ -2,14 +2,18 @@
 <html lang="en-us">
     <head>
         <title>{{page.title}}</title>
-        <meta property="og:title" content="{{page.section0}}"/>
-        <meta name="description" content="{{page.metaDescripcion}}">
+        <meta property="og:title" content="{{page.title}}"/>
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="{{page.metaDescripcion}}">
+        <meta property="og:url" content="{{page.url}}"
         {% include head2.html %}
     </head>
     <body>
+      <div id="fb-root"></div>
+      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v12.0" nonce="e3oJ2JdG"></script>
         <div class="container-post">
           <div class="row">
-            <div class="container-two">
+            <div class="container-two-post">
               <div class="izq">
                 <div class="izq-container card-design-1">
                   <!--<h1>{{page.tituloPost}}</h1>
@@ -25,8 +29,15 @@
                   <p>{{page.tarjetaContenido}}</p>
                   <p>Fecha: {{page.tarjetaFecha}}</p>
                   <p>Publicado por: {{page.tarjetaCreador}}</p>
-                  <p>Tags: <q>{{page.tarjetaTags}}</q></p>
-                  <p>Facebook enlace para compartir</p>
+                  <div id="row-tags-post">
+                    <div><p>Tags:</p></div>
+                    <div><p class="tag-post">{{page.tag1}}</p></div>
+                    <div><p class="tag-post">{{page.tag2}}</p></div>
+                    <div><p class="tag-post">{{page.tag3}}</p></div>
+                    <div><p class="tag-post">{{page.tag4}}</p></div>
+                    <div><p class="tag-post">{{page.tag5}}</p></div>
+                  </div>
+                  <div class="fb-share-button" data-href="https://www.creativeaml.com/" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.creativeaml.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartir</a></div>
                 </div>
               </div>
             </div>
