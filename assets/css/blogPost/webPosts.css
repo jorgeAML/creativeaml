@@ -12,14 +12,14 @@
         display: flex;
         flex-flow: row wrap;
         justify-content: flex-start;
-        align-items: baseline;
+        align-items: normal;
         gap: 2px;
     }
     #row-tags-post > div:nth-child(6) > p {
         margin-bottom: 5px;
+        margin-top: unset;
     }
     .tag-post {
-        margin: -10px 3px 0 3px;
         border: 2px solid var(--c-color-i);
         border-radius: 5px;
         padding: 5px;
