@@ -46,4 +46,17 @@
     .center {
         text-align: center;
     }
+    ul > li {
+        font-family: var(--fontMontserrat);
+    }
+    .decoration {
+        text-decoration-line: underline;
+        quotes: initial
+    }
+    .quotes {
+        quotes: initial;
+    }
+    a:active {
+        color: var(--c-color-d);
+    }
 }
