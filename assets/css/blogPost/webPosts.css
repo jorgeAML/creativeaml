@@ -17,7 +17,7 @@
     }
     #row-tags-post > div:nth-child(6) > p {
         margin-bottom: 5px;
-        margin-top: unset;
+        margin-top: -10px;
     }
     .tag-post {
         border: 2px solid var(--c-color-i);
