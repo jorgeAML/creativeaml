@@ -1,0 +1,49 @@
+@media (min-width:320px) and (max-width:800px) {
+    .container-post {
+        margin: 3% 5% 3% 5%;
+        border: 2px dashed var(--c-color-g);
+        border-radius: 15px;
+        padding: 1%;
+    }
+    .container-two-post {
+        display: grid;
+    }
+    /*Para los tags del blog*/
+    #row-tags-post {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        align-items: normal;
+        gap: 2px;
+    }
+    #row-tags-post > div:nth-child(6) > p, #row-tags-post > div:nth-child(5) > p {
+        margin-bottom: 5px;
+        margin-top: -10px;
+    }
+    .tag-post {
+        border: 2px solid var(--c-color-i);
+        border-radius: 5px;
+        padding: 5px;
+        background-color: var(--c-color-a);
+        font-family: monospace;
+        color: var(--c-color-p);
+        font-weight: bold;
+    }
+    .der-container, .izq-container {
+        padding: 5%;
+    }
+    .izq {
+        order: 2;
+        flex: 1 1 auto;
+    }
+    .der {
+        order: 1;
+        flex: 1 1 auto;
+    }
+    q {
+        color: var(--c-color-d);
+    }
+    .center {
+        text-align: center;
+    }
+}
