@@ -60,6 +60,11 @@
         color: var(--c-color-o);
     }
 }
+@media (max-width:800px) {
+    #row-tags-post > div:nth-child(5) {
+        margin-top: 0;
+    }
+} 
 @media (min-width:412px) and (max-width:915px) {
     #row-tags-post > div:nth-child(5) {
         margin-top: 22px;
