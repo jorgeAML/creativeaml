@@ -8,5 +8,5 @@ El blog cuenta tambien con un DNS con extensión .com que puedes encontrarlo com
 ---
 ## Actualizaciones
 01.diciembre.2021
-Primer post en mi blog personal, accede mediante el enlace [post1](https://www.creativeaml.com/blog_posts/17-11-2021.html)
+Primer post en mi blog personal, accede mediante el enlace [El llamado del código - casos en inovación en la educación 2021](https://www.creativeaml.com/blog_posts/17-11-2021.html)
 
