@@ -54,7 +54,7 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2021 Creative AML. Derechos reservados. Hecho con Jekyll
-actualizacion: Ultima actualizacion 20.10.2021
+actualizacion: Ultima actualización 31.12.2021
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
@@ -67,7 +67,7 @@ part2-carta1-titulo: Caso de Competición
 part2-carta1-parrafo: Inovando en la educación en Guatemala. Diseñando una solución inovativa y tecnologica que ayude a resolver o alinearse al problema de una educación accesible, equitativa y de calidad para todos.
 part2-carta2-titulo: Reflexiones para el 2022
 part2-carta2-parrafo: Las próximas elecciones generales de Guatemala se llevarán a cabo un domingo del mes de junio de 2023, si ningún candidato obtiene mayoría absoluta (50% +1 votos) se realizará la segunda vuelta un domingo de agosto del mismo año.
-part2-carta3-titulo: Crea tu propio sitio TOR
+part2-carta3-titulo: Crea tu propio sitio con TOR
 part2-carta3-parrafo: Alguna vez habéis escuchado sobre los sitios que están en la profundidad del internet, he acá te enseño a como crearlos usando TOR.
 
 ### PART 4 ###
