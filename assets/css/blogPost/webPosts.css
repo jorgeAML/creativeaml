@@ -15,7 +15,7 @@
         align-items: normal;
         gap: 2px;
     }
-    #row-tags-post > div:nth-child(6) > p {
+    #row-tags-post > div:nth-child(6) > p, #row-tags-post > div:nth-child(5) > p {
         margin-bottom: 5px;
         margin-top: -10px;
     }
