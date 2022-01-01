@@ -59,8 +59,8 @@ actualizacion: Ultima actualización 31.12.2021
 ###   END FOOTER   ###
 
 ### DESCRIPTION
-descriptionTitle: El llamado del código - casos en inovación en la educación 2021
-descriptionA: El caso de competición de IBM enfocado en brindar a estudiantes diseños de soluciones que hagan una educación un derecho no un privilegio. Conoce más sobre este caso y mis ideas para esta competición.
+descriptionTitle: Reflexiones 2022
+descriptionA: Nuestra reflexión debe iniciar con reconocer la verdad científica que todos somos parte de la unidad del genoma humano.
 
 ### PART 2 ###
 part2-carta1-titulo: Caso de Competición
