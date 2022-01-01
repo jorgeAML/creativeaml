@@ -68,7 +68,7 @@ part2-carta1-parrafo: Inovando en la educación en Guatemala. Diseñando una sol
 part2-carta2-titulo: Reflexiones para el 2022
 part2-carta2-parrafo: Las próximas elecciones generales de Guatemala se llevarán a cabo un domingo del mes de junio de 2023, si ningún candidato obtiene mayoría absoluta (50% +1 votos) se realizará la segunda vuelta un domingo de agosto del mismo año.
 part2-carta3-titulo: Crea tu propio sitio con TOR
-part2-carta3-parrafo: Alguna vez habéis escuchado sobre los sitios que están en la profundidad del internet, he acá te enseño a como crearlos usando TOR.
+part2-carta3-parrafo: Alguna vez habéis escuchado sobre los sitios que están en la web profunda, ahora sabras como hacerlos.
 
 ### PART 4 ###
 part4-titulo: Acerca de mi
@@ -78,6 +78,7 @@ part4-legend: Apasionado por la tecnología, inovando y compartiendo conocimient
 logo9: assets/logos/creativeaml2.png
 ### BUTTONS ###
 button1: Seguir leyendo
+button2: En construcción
 ---
  
 
