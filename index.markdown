@@ -65,10 +65,10 @@ descriptionA: El caso de competición de IBM enfocado en brindar a estudiantes d
 ### PART 2 ###
 part2-carta1-titulo: Caso de Competición
 part2-carta1-parrafo: Inovando en la educación en Guatemala. Diseñando una solución inovativa y tecnologica que ayude a resolver o alinearse al problema de una educación accesible, equitativa y de calidad para todos.
-part2-carta2-titulo: Ángulos y razonamientos
-part2-carta2-parrafo: Hace tiempo y muchos de nosotros hemos aprendido sobre los ángulos y como calcularlos pero he acá algunos ejemplos sobre lo profundo de este tema.
-part2-carta3-titulo: ¿Qué es una recta, al final? 
-part2-carta3-parrafo: Una infinidad de puntos llevados al límite, pero será que podremos encontrar su último punto de esa recta o sólo llegaremos a una aproximación.
+part2-carta2-titulo: Reflexiones para el 2022
+part2-carta2-parrafo: Las próximas elecciones generales de Guatemala se llevarán a cabo un domingo del mes de junio de 2023, si ningún candidato obtiene mayoría absoluta (50% +1 votos) se realizará la segunda vuelta un domingo de agosto del mismo año.
+part2-carta3-titulo: Crea tu propio sitio TOR
+part2-carta3-parrafo: Alguna vez habéis escuchado sobre los sitios que están en la profundidad del internet, he acá te enseño a como crearlos usando TOR.
 
 ### PART 4 ###
 part4-titulo: Acerca de mi
