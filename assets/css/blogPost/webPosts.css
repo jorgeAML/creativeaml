@@ -50,4 +50,10 @@
         color: var(--c-color-o);
         font-size: x-large;
     }
+    u {
+        text-decoration: solid underline var(--c-color-c) 3px;
+    }
+    ol {
+        font-family: var(--fontMontserrat);
+    }
 }

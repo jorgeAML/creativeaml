@@ -64,6 +64,9 @@
         color: var(--c-color-o);
         font-size: x-large;
     }
+    u {
+        text-decoration: solid underline var(--c-color-c) 3px;
+    }
 }
 @media (max-width:800px) {
     #row-tags-post > div:nth-child(5) {
