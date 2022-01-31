@@ -45,4 +45,9 @@
     .center {
         text-align: center;
     }
+    summary {
+        font-family: 'Grobe deutch';
+        color: var(--c-color-o);
+        font-size: x-large;
+    }
 }

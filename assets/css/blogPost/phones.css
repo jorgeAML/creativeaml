@@ -59,6 +59,11 @@
     a:active {
         color: var(--c-color-o);
     }
+    summary {
+        font-family: 'Grobe deutch';
+        color: var(--c-color-o);
+        font-size: x-large;
+    }
 }
 @media (max-width:800px) {
     #row-tags-post > div:nth-child(5) {
