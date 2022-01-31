@@ -1,6 +1,6 @@
 ---
-layout: 
-title: nuevo
+layout: archivo
+title: Archivos de Blogs
 permalink: /archivos/
 mark: Creative AML
 
