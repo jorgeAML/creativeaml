@@ -54,13 +54,13 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2021 Creative AML. Derechos reservados. Hecho con Jekyll
-actualizacion: Ultima actualización 31.12.2021
+actualizacion: Ultima actualización 02.02.2022
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
 ### DESCRIPTION
-descriptionTitle: Reflexiones 2022
-descriptionA: Nuestra reflexión debe iniciar con reconocer la verdad científica que todos somos parte de la unidad del genoma humano.
+descriptionTitle: La agricultura de los Mayas
+descriptionA:  Análisis de la cultura maya desde la caida de una civilización antigua, sus tecnologias de hace más de dos milenios y que cosas aún se conservan de ellas.
 
 ### PART 2 ###
 part2-carta1-titulo: Caso de Competición
