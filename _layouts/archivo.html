@@ -2,11 +2,24 @@
 <html lang="en-us">
     <head>
         <title>{{page.title}}</title>
+        <meta property="og:title" content="{{page.title}}"/>
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="{{page.metaDescripcion}}">
+        <meta property="og:url" content="{{page.url}}">
         {% include head2.html %}
       </head>
       <body>
         <section>
           {% include navBlog.html %}
         </section>
+        <section id="content">
+          <div class="container-post">
+            <div class="row">
+              {{ page.content }}
+            </div>
+          </div>
+        </section>
+        
+
       </body>
 </html>
