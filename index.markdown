@@ -53,7 +53,7 @@ footer3-1: Instagram
 footer3-2: Twitter
 footer3-3: Github
 
-copyright2: 2021 Creative AML. Derechos reservados. Hecho con Jekyll
+copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll
 actualizacion: Ultima actualización 02.02.2022
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
