@@ -65,7 +65,7 @@ descriptionA:  Análisis de la cultura maya desde la caida de una civilización 
 ### PART 2 ###
 part2-carta1-titulo: Expandiendo Los horizontes del mundo
 part2-carta1-parrafo: Destacandose las situaciones que hicieron posible la organización de los viajes de exploración y descubrimiento que llevaron a los españoles a suelo americano y al posterior proceso de conquista.
-part2-carta1-parrafo-enlace: /blog_posts/17-11-2021.html
+part2-carta1-parrafo-enlace: /blog_posts/03-02-2022.html
 part2-carta2-titulo: Reflexiones para el 2022
 part2-carta2-parrafo: Las próximas elecciones generales de Guatemala se llevarán a cabo un domingo del mes de junio de 2023, si ningún candidato obtiene mayoría absoluta (50% +1 votos) se realizará la segunda vuelta un domingo de agosto del mismo año.
 part2-carta2-parrafo-enlace: /blog_posts/31-12-2021.html
