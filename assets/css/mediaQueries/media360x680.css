@@ -143,4 +143,7 @@
     .tags-margin {
         margin: 0 5px 15px 5px;
     }
+    .button-simple-2 {
+        width: fit-content;
+    }
 }

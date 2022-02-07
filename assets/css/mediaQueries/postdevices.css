@@ -29,4 +29,7 @@
         font-size: large;
         text-align: justify;
     }
+    .button-simple-2 {
+        width: fit-content;
+    }
 }

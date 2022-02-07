@@ -49,6 +49,7 @@
         font-family: 'Grobe deutch';
         color: var(--c-color-o);
         font-size: x-large;
+        cursor: pointer;
     }
     u {
         text-decoration: solid underline var(--c-color-c) 3px;

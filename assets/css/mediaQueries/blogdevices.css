@@ -35,4 +35,19 @@
         height: 150px;
         position: relative;
       }*/
+      .button-simple-2 {
+        width: fit-content;
+    }
+    summary {
+        font-family: 'Grobe deutch';
+        color: var(--c-color-o);
+        font-size: x-large;
+        cursor: pointer;
+    }
+    u {
+        text-decoration: solid underline var(--c-color-c) 3px;
+    }
+    ol {
+        font-family: var(--fontMontserrat);
+    }
 }

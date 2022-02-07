@@ -24,7 +24,7 @@ section2-5: Training
 image1: assets/images/A1.png
 image2: assets/images/A2.png
 image3: assets/images/A3.png
-image4: assets/images/alexa2.jpg
+image4: assets/images/post4.jpg
 #image5: assets/images/responsive.jpg
 image6: assets/images/phone.jpg
 image7: assets/images/header.jpg

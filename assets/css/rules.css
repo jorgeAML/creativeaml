@@ -179,15 +179,16 @@ footer {
 }
 .button-simple-2 {
     background-color: transparent;
-    border: 3px dashed var(--c-color-o);
+    border: 2px solid var(--c-color-o);
     border-radius: 15px;
-    display: block;
-    width: 30%;
+    width: 20%;
+    padding: 1%;
 }
 .button-simple-2:hover {
     border: none;
     background-color: var(--c-color-o);
-    width: 30%;
+    border: 2px solid var(--c-color-o);
+    width: 20%;
     padding: 1%;
 }
 .button-simple-2 > a:hover {

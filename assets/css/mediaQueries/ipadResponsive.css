@@ -1,4 +1,16 @@
 @media (min-width:809px) and (max-width:1080px) {
+  summary {
+    font-family: 'Grobe deutch';
+    color: var(--c-color-o);
+    font-size: x-large;
+    cursor: pointer;
+  }
+  u {
+    text-decoration: solid underline var(--c-color-c) 3px;
+  }
+  ol {
+    font-family: var(--fontMontserrat);
+  }
     #nav {
         margin: 0;
         font-family: 'Grobe deutch';
@@ -43,7 +55,7 @@
         order: 3;
         flex: 1 1 auto;
       }
-    header {
+      .site-header {
         background-image: url("../images/agriculture.jpg");
         background-size: cover;
         background-position: 50%;
@@ -69,4 +81,8 @@
         margin: 1% 5% 0 5%;
         font-weight: bold;
     }
+    .button-simple-2 {
+      width: fit-content;
+    }
+  
 }
