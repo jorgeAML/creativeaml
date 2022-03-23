@@ -71,7 +71,7 @@ part2-carta2-titulo: España durante el siglo XVI
 part2-carta2-parrafo: El año 1942 fue decisivo para los reyes españoles Fernando e Isabel por dos razones - Habían logrado derrotar a los árabes en Granada
 part2-carta2-parrafo-enlace: /blog_posts/08-02-2022.html
 part2-carta3-titulo: Reformas Borbónicas
-part2-carta3-parrafo: modificar
+part2-carta3-parrafo: Los primeros monopolios en Centroamérica establecidos en el siglo XVIII fueron los que sentaron las bases de las reformas fiscales y el pago de los tributos a los comerciantes guatemaltecos.
 part2-carta3-parrafo-enlace: /blog_posts/18-03-2022.html
 
 ### PART 4 ###
