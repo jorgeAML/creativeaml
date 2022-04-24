@@ -22,10 +22,6 @@ pre {
   font-size: larger;
   border-radius: 10px;
 }
-a {
-  font-family: var(--fontMontserrat);
-  color: var(--c-color-a);
-}
 @media (min-width: 1200px) {
   /* NAV NAV */
   .container-column-nav {

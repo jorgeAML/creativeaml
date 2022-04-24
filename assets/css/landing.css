@@ -37,7 +37,7 @@
         font-weight: bold;
     }
     .site-header {
-        background-image: url("../images/agriculture.jpg");
+        background-image: var(--image-header);
         background-size: cover;
         background-position: 50%;
         background-repeat: no-repeat;

@@ -23,9 +23,9 @@ section2-5: Training
 ### IMAGES
 image1: assets/images/A1.png
 image2: assets/images/A2.png
-image3: assets/images/A3.png
+image3: assets/images/post6.jpg
 image4: assets/images/post4.jpg
-image5: assets/images/post5.jpg
+image5: assets/images/post7.jpg
 
 image6: assets/images/phone.jpg
 image7: assets/images/header.jpg
@@ -55,21 +55,21 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll
-actualizacion: Ultima actualización 10.02.2022
+actualizacion: Ultima actualización 19.04.2022
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
 ### DESCRIPTION
-descriptionTitle: La agricultura de los Mayas
-descriptionA:  Análisis de la cultura maya desde la caida de una civilización antigua, sus tecnologias de hace más de dos milenios y que cosas aún se conservan de ellas.
+descriptionTitle: Curso de Java
+descriptionA:  Aprende Java creando programas simples y de rápida ejecución visitando los tutoriales que tengo planeado hacer cada semana
 
 ### PART 2 ###
-part2-carta1-titulo: Expandiendo Los horizontes del mundo
+part2-carta1-titulo: Expandiendo Los horizontes
 part2-carta1-parrafo: Destacandose las situaciones que hicieron posible la organización de los viajes de exploración y descubrimiento que llevaron a los españoles a suelo americano y al posterior proceso de conquista.
 part2-carta1-parrafo-enlace: /blog_posts/03-02-2022.html
-part2-carta2-titulo: España durante el siglo XVI
-part2-carta2-parrafo: El año 1942 fue decisivo para los reyes españoles Fernando e Isabel por dos razones - Habían logrado derrotar a los árabes en Granada
-part2-carta2-parrafo-enlace: /blog_posts/08-02-2022.html
+part2-carta2-titulo: Grados Celsius a Fahrenheit
+part2-carta2-parrafo: Aprende Java crando un programa donde conviertas de grados Celsius a Fahrenheit.
+part2-carta2-parrafo-enlace: /blog_posts/19-04-2022.html
 part2-carta3-titulo: Reformas Borbónicas
 part2-carta3-parrafo: Los primeros monopolios en Centroamérica establecidos en el siglo XVIII fueron los que sentaron las bases de las reformas fiscales y el pago de los tributos a los comerciantes guatemaltecos.
 part2-carta3-parrafo-enlace: /blog_posts/18-03-2022.html
