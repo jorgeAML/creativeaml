@@ -1,4 +1,7 @@
 @media (min-width:809px) and (max-width:1080px) {
+  pre {
+    width: fit-content;
+  }
   summary {
     font-family: 'Grobe deutch';
     color: var(--c-color-o);

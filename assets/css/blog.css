@@ -17,19 +17,22 @@
 pre {
   background-color: aliceblue;
   border-left: 5px solid var(--c-color-p);
-  overflow: auto;
-  padding: 2%;
-  font-size: larger;
   border-radius: 10px;
 }
+
 @media (min-width: 1200px) {
+  pre {
+    font-size: larger;
+    padding: 2%;
+    overflow: auto;
+  }
   /* NAV NAV */
   .container-column-nav {
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
     margin: 0 0 0 0;
-}
+  }
   #first {
     margin: 5% 0 0 0;
   }

@@ -1,4 +1,9 @@
 @media only screen and (max-width: 675px) {
+    pre {
+        width: 250px;
+        padding: 4%;
+        overflow: auto;
+    }
     .site-header {
         background-image: var(--image-header);
         background-size: cover;
