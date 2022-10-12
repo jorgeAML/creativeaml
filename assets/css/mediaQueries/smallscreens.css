@@ -4,6 +4,9 @@
         padding: 4%;
         overflow: auto;
     }
+    iframe {
+        width: 280px;
+    }
     .site-header {
         background-image: var(--image-header);
         background-size: cover;

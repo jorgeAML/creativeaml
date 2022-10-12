@@ -19,13 +19,17 @@ pre {
   border-left: 5px solid var(--c-color-p);
   border-radius: 10px;
 }
-
+iframe {
+  border-radius: 15px;
+  writing-mode: horizontal-tb;
+}
 @media (min-width: 1200px) {
   pre {
     font-size: larger;
     padding: 2%;
     overflow: auto;
   }
+  
   /* NAV NAV */
   .container-column-nav {
     display: flex;
