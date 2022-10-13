@@ -20,11 +20,14 @@ section2-3: Alexa Skills
 section2-4: Responsive Web Design
 section2-5: Training
 
+### ALT IMAGES
+image4Alt: Libras a Kilogramos
+
 ### IMAGES
 image1: assets/images/A1.png
 image2: assets/images/A2.png
 image3: assets/images/post6.jpg
-image4: assets/images/post4.jpg
+image4: assets/images/post8.jpg
 image5: assets/images/post7.jpg
 
 image6: assets/images/phone.jpg
@@ -64,9 +67,9 @@ descriptionTitle: Curso de Java
 descriptionA:  Aprende Java creando programas simples y de rápida ejecución visitando los tutoriales que tengo planeado hacer cada semana
 
 ### PART 2 ###
-part2-carta1-titulo: Expandiendo Los horizontes
-part2-carta1-parrafo: Destacandose las situaciones que hicieron posible la organización de los viajes de exploración y descubrimiento que llevaron a los españoles a suelo americano y al posterior proceso de conquista.
-part2-carta1-parrafo-enlace: /blog_posts/03-02-2022.html
+part2-carta1-titulo: Libras a Kilogramos
+part2-carta1-parrafo: Un nuevo tutorial para que práctiques a convertir libras a kilogramos usando Java.
+part2-carta1-parrafo-enlace: /blog_posts/11-10-2022.html
 part2-carta2-titulo: Grados Celsius a Fahrenheit
 part2-carta2-parrafo: Aprende Java crando un programa donde conviertas de grados Celsius a Fahrenheit.
 part2-carta2-parrafo-enlace: /blog_posts/19-04-2022.html
