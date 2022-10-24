@@ -58,7 +58,7 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll
-actualizacion: Ultima actualización 19.04.2022
+actualizacion: Última actualización 23.10.2022
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
@@ -86,6 +86,17 @@ logo9: assets/logos/creativeaml2.png
 ### BUTTONS ###
 button1: Seguir leyendo
 button2: En construcción
+
+### Meta SEO
+Meta-title: El blog de JorgeAML
+Meta-description: Bienvenido a mi blog de programación y relatos de la vida diaria en la Universidad. Acá te enseñare algunos trucos para páginas web o tareas que he encontrado.
+Meta-copyright: JorgeAML
+Meta-keywords: programación, blog, JorgeAML, USAC, ingeniería, unity, game development, java, html, css
+Meta-type: website
+Meta-url: https://creativeaml.com/
+Meta-image: banner.jpg
+
+
 ---
  
 
