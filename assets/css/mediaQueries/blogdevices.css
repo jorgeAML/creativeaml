@@ -7,6 +7,10 @@
     iframe {
         width: fit-content;
     }
+    .latex {
+        width: 290px;
+        overflow: auto;
+    }
 }
 @media (min-width:320px) and (max-width:680px) {
     /* NAV NAV */
