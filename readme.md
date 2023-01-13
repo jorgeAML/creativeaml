@@ -13,3 +13,6 @@ Primer post en mi blog personal, accede mediante el enlace [El llamado del códi
 
 31.diciembre.2021
 Segundo post en mi blog personal, accede mediante el enlace [Reflexiones 2022](https://www.creativeaml.com/blog_posts/31-12-2021.html)
+
+13.Enero.2023
+Enlace Onion actualizado.
