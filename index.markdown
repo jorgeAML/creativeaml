@@ -25,7 +25,7 @@ image4Alt: Libras a Kilogramos
 image11Alt: Sección 4.1 Area bajo la curva
 
 ### IMAGES
-image1: assets/images/A1.png
+image1: assets/images/post10.jpg
 image2: assets/images/A2.png
 image3: assets/images/post6.jpg
 image4: assets/images/post8.jpg
@@ -34,8 +34,8 @@ image5: assets/images/post7.jpg
 image6: assets/images/phone.jpg
 image7: assets/images/header.jpg
 #image8: assets/images/development2.jpg
-#image9: assets/images/training.jpg
-image10: assets/images/moscow.jpg
+#image9: assets/images/post10.jpg
+image10: assets/images/2023.jpg
 image11: assets/images/post9.jpg
 logo: assets/images/logo2non.png
 logo2: assets/images/logo2white.png
@@ -60,7 +60,7 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll
-actualizacion: Última actualización 18.11.2022
+actualizacion: Última actualización 08 de Febrero del 2023
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
@@ -80,14 +80,15 @@ part2-carta3-parrafo: Los primeros monopolios en Centroamérica establecidos en 
 part2-carta3-parrafo-enlace: /blog_posts/18-03-2022.html
 
 part3-carta4-titulo: Ejercicios sección 4.1
-part3-carta4-parrafo: Ejercicios resueltos de la sección 4.1 de matemática básica 2 semestre 2022.
+part3-carta4-parrafo: Ejercicios propuestos y resueltos de la sección 4.1 de matemática básica 2 del Ing. Miguel Castillo semestre 2022.
 part3-carta4-parrafo-enlace: /blog_posts/01-11-2022.html
-part3-carta5-titulo: Reflexiones para el 2022
-part3-carta5-parrafo: Las próximas elecciones generales de Guatemala se llevarán a cabo un domingo del mes de junio de 2023.
-part3-carta5-parrafo-enlace: /blog_posts/17-11-2021.html
+part3-carta5-titulo: Limites Kuznezob S.7
+part3-carta5-parrafo: Ejercicios resueltos de la sección 7 sobre límites y su continuidad en algún punto sobre la gráfica.
+part3-carta5-parrafo-enlace: /blog_posts/25-01-2023.html
 part3-carta6-titulo: IBM 2021 caso competición
 part3-carta6-parrafo: Inovando en la educación en Guatemala. Diseñando una solución inovativa y tecnologica que ayude.
-part3-carta6-parrafo-enlace: /blog_posts/31-12-2021.html
+part3-carta6-parrafo-enlace: /blog_posts/17-11-2021.html
+
 
 ### PART 4 ###
 part4-titulo: Acerca de mi
