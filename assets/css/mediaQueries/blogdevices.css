@@ -11,6 +11,11 @@
         width: 290px;
         overflow: auto;
     }
+    #myCanvasContainer {
+        width: 290px;
+        height: 280px;
+        overflow: auto;
+    }
 }
 @media (min-width:320px) and (max-width:680px) {
     /* NAV NAV */
