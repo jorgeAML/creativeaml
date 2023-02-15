@@ -34,15 +34,55 @@ window.onload = function() {
     context.lineTo(350,130);
 
     //punto
-    context.moveTo(350,100);
-    context.lineTo(350,100);
+    context.moveTo(350,105);
+    context.lineTo(350,105);
 
     context.moveTo(490,70);
     context.lineTo(490,70);
-    //Diagonal
+    //Diagonal 2
     context.moveTo(370,100);
     context.lineTo(470,75);
 
-    context.stroke();
+    context.moveTo(490,50);
+    context.lineTo(650,50);
 
-}
+    //Serie de puntos
+    function serieA(x,y, inicio,aumento) {
+        this.x = x;
+        this.y = y;
+        while (y < inicio) {
+            y += aumento;
+            context.moveTo(x,y);
+            context.lineTo(x,y);
+        }
+    }
+    serieA(370,120,200,20);
+    serieA(390,120,200,20);
+    serieA(410,120,200,20);
+    serieA(430,100,200,20);
+    serieA(450,100,200,20);
+    serieA(470,100,200,20);
+    serieA(490,100,200,20);
+    serieA(510,80,200,20);
+    serieA(530,80,200,20);
+    serieA(550,80,200,20);
+    serieA(570,80,200,20);
+    serieA(590,60,200,20);
+    serieA(590,60,200,20);
+    serieA(610,60,200,20);
+    serieA(630,60,200,20);
+    serieA(650,60,200,20);
+    /*
+
+    let x = 370;
+    let y = 120;
+    
+    while (y < 200) {
+        y += 20;
+        context.moveTo(370,y);
+        context.lineTo(x,y);
+    }
+    */
+
+    context.stroke();
+};
