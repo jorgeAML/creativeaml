@@ -85,4 +85,27 @@ window.onload = function() {
     */
 
     context.stroke();
+
+    var canvasJ = document.getElementById("myArc");
+    var ctx = canvasJ.getContext("2d");
+
+    ctx.lineWidth = 10;
+    ctx.strokeStyle = "black";
+    ctx.lineCap = "square";
+    ctx.arc(canvas.width / 2, canvas.height / 2 + 40, 80, 1.1 * Math.PI, 1.9 * Math.PI, false);
+    ctx.moveTo(50,100); //punto de encuentro
+    ctx.arc(100,100,50,Math.PI,0*Math.PI,false);
+    ctx.moveTo(50,110);
+    ctx.arc(100,110,50,Math.PI, 2*Math.PI, true);
+    ctx.moveTo(70,100);
+    ctx.arc(100,100,30,(Math.PI),0, false);
+    ctx.moveTo(70,110);
+    ctx.arc(100,110,30,Math.PI,0, true);
+    ctx.moveTo(90,100);
+    ctx.arc(100,100,10,Math.PI,0, false);
+    ctx.moveTo(90,110);
+    ctx.arc(100,110,10,Math.PI,0,true);
+    ctx.stroke();
 };
+
+    
