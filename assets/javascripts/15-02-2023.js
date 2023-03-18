@@ -106,6 +106,30 @@ window.onload = function() {
     ctx.moveTo(90,110);
     ctx.arc(100,110,10,Math.PI,0,true);
     ctx.stroke();
+
+    var canvasB = document.getElementById("myQuadratic");
+    var ctb = canvasB.getContext("2d");
+
+    ctb.lineWidth = 10;
+    ctb.strokeStyle = "orange";
+    ctb.lineCap = "round";
+    ctb.moveTo(100, canvas.height - 50);
+    ctb.quadraticCurveTo(canvas.width/2, -50, canvas.width - 100, canvas.height -50);
+    ctb.moveTo(300,200);
+    ctb.quadraticCurveTo(150,10,150,150);
+    ctb.moveTo(100,100);
+    ctb.quadraticCurveTo(10,90,200,50);
+    ctb.stroke();
+
+    var canvasC = document.getElementById("myCanvasCC");
+    var cc = canvasC.getContext("2d");
+
+    cc.lineWidth = 10;
+    cc.strokeStyle = "red";
+    cc.lineCap = "round";
+    cc.moveTo(180,130);
+    cc.bezierCurveTo(150, 10, 420, 10, 420, 180);
+    cc.stroke();
 };
 
     
