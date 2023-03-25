@@ -130,6 +130,65 @@ window.onload = function() {
     cc.moveTo(180,130);
     cc.bezierCurveTo(150, 10, 420, 10, 420, 180);
     cc.stroke();
+
+    var canvasD = document.getElementById("Zigzag");
+    var ac = canvasD.getContext("2d");
+
+    var startX = 10;
+    var startY = 70;
+    var zigzagSpacing = 80;
+    
+    ac.lineWidth = 10;
+    ac.strokeStyle = "blue";
+    ac.beginPath();
+    ac.moveTo(startX, startY);
+
+        for (var n = 0; n < 5; n++) {
+            var x = startX + ((n + 1) * zigzagSpacing);
+            var y;
+            
+            if(n % 2 == 0) {
+            y = startY + 100;
+            }
+            else {
+            y = startY;
+            }
+            ac.lineTo(x, y);
+            
+        }
+        ac.stroke();
+
+
+    //Spiral
+    var canvasE = document.getElementById("Spiral");
+    var ad = canvasE.getContext("2d");
+
+    var radius = 0;
+    var angle = 0;
+
+    //Style spiral
+    ad.lineWidth = 10;
+    ad.strokeStyle = "#8F3A84";
+    ad.beginPath();
+    ad.moveTo(canvasE.width / 2, canvasE.height / 2);
+    for(var n = 0; n < 150; n++){
+        radius += 0.55;
+        angle += (Math.PI * 2) / 70;
+        var x = canvasE.width / 2 + radius * Math.cos(angle);
+        var y = canvasE.height / 2 + radius * Math.sin(angle);
+        ad.lineTo(x, y);
+    }
+    ad.stroke();
+
+    //TEXT Tutorial
+    var canvasF = document.getElementById("Text");
+    var ae = canvasF.getContext("2d");
+
+    ae.font = "40pt Calibri";
+    ae.fillStyle = "black";
+    ae.textAlign = "left";
+    ae.textBaseline = "middle";
+    ae.fillText("Hello Jorge!", canvasF.width / 2, 120);
 };
 
     
