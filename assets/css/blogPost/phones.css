@@ -8,6 +8,11 @@
     .container-two-post {
         display: grid;
     }
+    .latex > p {
+        text-align: center;
+        font-family: var(--fontEphesis);
+        font-size: 1.6em;
+    }
     /*Para los tags del blog*/
     #row-tags-post {
         display: flex;

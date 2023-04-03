@@ -1,6 +1,7 @@
 :root {
     /*Images*/
     --fontMontserrat: 'Montserrat Alternates', sans-serif;
+    --fontEphesis: 'Ephesis', cursive;
     --image-header: url("../images/banner.jpg");
     --image-back: url("../images/banner.jpg");
     --font-kant: 'Kanit', sans-serif;
