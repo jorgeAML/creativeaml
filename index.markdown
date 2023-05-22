@@ -26,7 +26,7 @@ image11Alt: Sección 4.1 Area bajo la curva
 
 ### IMAGES
 image1: assets/images/post10.jpg
-image2: assets/images/A2.png
+image2: assets/images/HT1.jpg
 image3: assets/images/post6.jpg
 image4: assets/images/post8.jpg
 image5: assets/images/post7.jpg
@@ -85,14 +85,14 @@ part3-carta4-parrafo-enlace: /blog_posts/01-11-2022.html
 part3-carta5-titulo: Limites Kuznezob S.7
 part3-carta5-parrafo: Ejercicios resueltos de la sección 7 sobre límites y su continuidad en algún punto sobre la gráfica.
 part3-carta5-parrafo-enlace: /blog_posts/25-01-2023.html
-part3-carta6-titulo: IBM 2021 caso competición
-part3-carta6-parrafo: Inovando en la educación en Guatemala. Diseñando una solución inovativa y tecnologica que ayude.
-part3-carta6-parrafo-enlace: /blog_posts/17-11-2021.html
+part3-carta6-titulo: Hoja de trabajo 1
+part3-carta6-parrafo: Solución a la Hoja de trabajo de Física básica sobre los temas de vectores y cifras significativas
+part3-carta6-parrafo-enlace: /blog_posts/22-05-2023.html
 
 
 ### PART 4 ###
 part4-titulo: Acerca de mi
-part4-legend: Apasionado por la tecnología, inovando y compartiendo conocimiento, creador de proyectos, humanitario, constructor, comunicador y diseñador, pero mis áreas más fuertes son las últimas dos. Un estudiante eterno pero mucho más avanzado. Analítico sobre todo en las áreas de las matemáticas. El curso que más me ha gustado fue la Histología y la Química.
+part4-legend: Apasionado por la tecnología, inovando y compartiendo conocimiento, creador de proyectos, humanitario, constructor, comunicador y diseñador, pero mis áreas más fuertes son las últimas dos. Analítico sobre todo en las áreas de las matemáticas. Encuentrame en Twitch como sarcoplasmagt hago transmisiones sobre como usar Autocad y diseño 3D. Sigueme y escucha mis producciones en Spotify como JorgeAMl.
 
 ### LOGOS ###
 logo9: assets/logos/creativeaml2.png
