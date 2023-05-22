@@ -189,6 +189,28 @@ window.onload = function() {
     ae.textAlign = "left";
     ae.textBaseline = "middle";
     ae.fillText("Hello Jorge!", canvasF.width / 2, 120);
+
+    //TEXT SHADOW TUTORIAL
+    var canvasG = document.getElementById("Tshadow");
+    var af = canvasG.getContext("2d");
+
+    af.font = "40pt calibri";
+    af.fillStyle = "grey";
+    af.textAlign = "center";
+    af.textBaseline = "middle";
+    draw3dText(af, "Text en 3d! Serote", canvasG.width/2, 120,5);
 };
+function draw3dText(context, text,x,y, textDepth) {
+    var n;
+    for(n = 0; n < textDepth; n++) {
+        context.fillText(text, x - n, y - n);
+    }
+    context.fillStyle = '#5E97FF';
+    context.shadowColor = 'black';
+    context.shadowBlur = 10;
+    context.shadowOffsetX = textDepth + 2;
+    context.shadowOffsetY = textDepth + 2;
+    context.fillText(text, x - n, y - n);
+}
 
     
