@@ -1,4 +1,7 @@
 @media (min-width: 1200px) {
+    :root {
+        text-align: justify;
+    }
     .container-post {
         margin: 3% 5% 3% 5%;
         border: 2px dashed var(--c-color-g);
@@ -68,9 +71,10 @@
         margin-left: 10%;
     }
     .l-table {
-        border: 2px solid var(--c-color-o);
+        border: 4px solid var(--c-color-o);
         border-radius: 5px;
         margin: 0 auto 0 auto;
+        font-family: var(--fontMontserrat);
     }
     .l-table tr th {
         text-align: center;
@@ -92,6 +96,6 @@
     .latex-a {
         margin: 0 0 0 0;
         font-family: var(--fontMontserrat);
-        text-decoration: underline wavy var(--c-color-o);
+        text-decoration: underline wavy var(--c-color-c);
     }
 }
