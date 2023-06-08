@@ -84,4 +84,14 @@
         font-family: 'Times New Roman', Times, serif;
         font-weight: bold;
     }
+    .l-container {
+        margin: 2%;
+        display: flex;
+        justify-content: center;
+    }
+    .latex-a {
+        margin: 0 0 0 0;
+        font-family: var(--fontMontserrat);
+        text-decoration: underline wavy var(--c-color-o);
+    }
 }
