@@ -59,8 +59,8 @@ footer3-1: Instagram
 footer3-2: Twitter
 footer3-3: Github
 
-copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll
-actualizacion: Última actualización 08 de Febrero del 2023
+copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
+actualizacion: Última actualización 08 de Junio del 2023
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
