@@ -1,4 +1,7 @@
 @media (min-width:320px) and (max-width:800px) {
+    :root {
+        text-align: justify;
+    }
     .container-post {
         margin: 3% 5% 3% 5%;
         border: 2px dashed var(--c-color-g);
@@ -71,6 +74,34 @@
     }
     u {
         text-decoration: solid underline var(--c-color-c) 3px;
+    }
+    .l-table {
+        border: 4px solid var(--c-color-o);
+        border-radius: 5px;
+        margin: 0 auto 0 auto;
+        font-family: var(--fontMontserrat);
+    }
+    .l-table tr th {
+        text-align: center;
+        padding: 5%;
+        border-bottom: 2px solid var(--c-color-p);
+    }
+    .l-table tr td {
+        border-bottom: 2px solid var(--c-color-g);
+    }
+    i {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+    .l-container {
+        margin: 2%;
+        display: flex;
+        justify-content: center;
+    }
+    .latex-a {
+        margin: 0 0 0 0;
+        font-family: var(--fontMontserrat);
+        text-decoration: underline wavy var(--c-color-c);
     }
 }
 @media (max-width:800px) {
@@ -158,4 +189,5 @@
     a:active {
         color: var(--c-color-o);
     }
+    
 }

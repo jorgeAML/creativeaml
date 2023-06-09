@@ -75,9 +75,9 @@ part2-carta1-parrafo-enlace: /blog_posts/11-10-2022.html
 part2-carta2-titulo: Grados Celsius a Fahrenheit
 part2-carta2-parrafo: Aprende Java crando un programa donde conviertas de grados Celsius a Fahrenheit.
 part2-carta2-parrafo-enlace: /blog_posts/19-04-2022.html
-part2-carta3-titulo: Reformas Borbónicas
-part2-carta3-parrafo: Los primeros monopolios en Centroamérica establecidos en el siglo XVIII fueron los que sentaron las bases de las reformas fiscales y el pago de los tributos a los comerciantes guatemaltecos.
-part2-carta3-parrafo-enlace: /blog_posts/18-03-2022.html
+part2-carta3-titulo: Noción de límite
+part2-carta3-parrafo: La noción de que f(x) tiende al número L cuando x tiende al número a se define como una aproximación arbitraria  a un número finito
+part2-carta3-parrafo-enlace: /blog_posts/04-06-2023.html
 
 part3-carta4-titulo: Ejercicios sección 4.1
 part3-carta4-parrafo: Ejercicios propuestos y resueltos de la sección 4.1 de matemática básica 2 del Ing. Miguel Castillo semestre 2022.
