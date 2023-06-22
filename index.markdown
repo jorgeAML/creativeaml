@@ -9,6 +9,7 @@ user: Jorge
 navSectionA: services
 
 ### NAV CONTENTS
+icon: ../assets/images/mainIcon.png
 section0: Creative AML
 section1: Artículos
 section2: Acerca de mi

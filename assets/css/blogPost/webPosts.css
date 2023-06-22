@@ -98,4 +98,8 @@
         font-family: var(--fontMontserrat);
         text-decoration: underline wavy var(--c-color-c);
     }
+    .mathjax-image {
+        display: flex;
+        justify-content: center;
+    }
 }
