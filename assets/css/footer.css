@@ -15,19 +15,28 @@
     .logoF {
         width: 7%;
     }
+    .logoJ {
+        margin: 0 0 1% 46%;
+        width: 7%;
+    }
 }
 @media only screen and (max-width: 650px) {
     #logo-copy > div > img {
         width: 50%;
         margin: 0 0 0 25%;
     }
-    .image-width-10 {
-        width: 10%;
-    }
+    /*.ima.logoJ {
+        margin: 0 0 1% 46%;
+        width: 7%;
+    }*/
     .center-everything {
         align-self: center;
     }
     .love > img {
         height: 20px;
+    }
+    .logoJ {
+        margin: 0 0 0 22%;
+        width: 50%;
     }
 }

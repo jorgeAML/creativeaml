@@ -40,8 +40,8 @@ image10: assets/images/2023.jpg
 image11: assets/images/post9.jpg
 logo: assets/images/logo2non.png
 logo2: assets/images/logo2white.png
-logojekyll1: assets/images/jekyll-logo-black-red-transparent.png
-logojekyll2: assets/images/jekyll-logo-light-transparent.png
+logojekyll1: assets/images/logoBlack.png
+logojekyll2: assets/images/logoRed.png
 logojekyll3: assets/images/jekyll-logo-dark-solid.png
 
 ###   FOOTER    ###
@@ -61,7 +61,7 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
-actualizacion: Última actualización 08 de Junio del 2023
+actualizacion: Última actualización 21 de Junio del 2023
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
