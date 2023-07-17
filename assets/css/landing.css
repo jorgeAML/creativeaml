@@ -276,4 +276,14 @@
     .fontSize2 {
         font-size: 1.5em;
     }
+    .label-A {
+        margin: 1%;
+        padding: 1%;
+        font-size: smaller;
+        font-weight: bolder;
+        font-family: var(--font-kant);
+        background-color: var(--c-color-o);
+        color: var(--c-color-i);
+        border-radius: 5px;
+    }
 }

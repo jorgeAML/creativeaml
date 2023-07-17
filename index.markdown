@@ -72,12 +72,18 @@ descriptionA:  Aprende Java creando programas simples y de rápida ejecución vi
 ### PART 2 ###
 part2-carta1-titulo: Libras a Kilogramos
 part2-carta1-parrafo: Un nuevo tutorial para que práctiques a convertir libras a kilogramos usando Java.
+part2-carta1-label1: Programacion
+part2-carta1-label2: Java
 part2-carta1-parrafo-enlace: /blog_posts/11-10-2022.html
 part2-carta2-titulo: Grados Celsius a Fahrenheit
 part2-carta2-parrafo: Aprende Java crando un programa donde conviertas de grados Celsius a Fahrenheit.
+part2-carta2-label1: Programacion
+part2-carta2-label2: Java
 part2-carta2-parrafo-enlace: /blog_posts/19-04-2022.html
 part2-carta3-titulo: Noción de límite
 part2-carta3-parrafo: La noción de que f(x) tiende al número L cuando x tiende al número a se define como una aproximación arbitraria  a un número finito
+part2-carta3-label1: Calculo
+part2-carta3-label2: Matemáticas
 part2-carta3-parrafo-enlace: /blog_posts/04-06-2023.html
 
 part3-carta4-titulo: Ejercicios sección 4.1
