@@ -75,25 +75,35 @@ part2-carta1-parrafo: Un nuevo tutorial para que práctiques a convertir libras 
 part2-carta1-label1: Programacion
 part2-carta1-label2: Java
 part2-carta1-parrafo-enlace: /blog_posts/11-10-2022.html
+# CARTA 2
 part2-carta2-titulo: Grados Celsius a Fahrenheit
 part2-carta2-parrafo: Aprende Java crando un programa donde conviertas de grados Celsius a Fahrenheit.
 part2-carta2-label1: Programacion
 part2-carta2-label2: Java
 part2-carta2-parrafo-enlace: /blog_posts/19-04-2022.html
+# CARTA 3
 part2-carta3-titulo: Noción de límite
 part2-carta3-parrafo: La noción de que f(x) tiende al número L cuando x tiende al número a se define como una aproximación arbitraria  a un número finito
 part2-carta3-label1: Calculo
 part2-carta3-label2: Matemáticas
 part2-carta3-parrafo-enlace: /blog_posts/04-06-2023.html
-
+# CARTA 4
 part3-carta4-titulo: Ejercicios sección 4.1
 part3-carta4-parrafo: Ejercicios propuestos y resueltos de la sección 4.1 de matemática básica 2 del Ing. Miguel Castillo semestre 2022.
+part2-carta4-label1: Calculo
+part2-carta4-label2: Riemann
 part3-carta4-parrafo-enlace: /blog_posts/01-11-2022.html
+# CARTA 5
 part3-carta5-titulo: Limites Kuznezob S.7
 part3-carta5-parrafo: Ejercicios resueltos de la sección 7 sobre límites y su continuidad en algún punto sobre la gráfica.
+part2-carta5-label1: Calculo
+part2-carta5-label2: Limites
 part3-carta5-parrafo-enlace: /blog_posts/25-01-2023.html
+# CARTA 6
 part3-carta6-titulo: Hoja de trabajo 1
 part3-carta6-parrafo: Solución a la Hoja de trabajo de Física básica sobre los temas de vectores y cifras significativas
+part2-carta6-label1: Fisica
+part2-carta6-label2: Hoja trabajo
 part3-carta6-parrafo-enlace: /blog_posts/22-05-2023.html
 
 
