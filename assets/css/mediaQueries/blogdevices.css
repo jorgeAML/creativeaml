@@ -16,6 +16,19 @@
         height: 280px;
         overflow: auto;
     }
+    .label-A {
+        margin: 1%;
+        padding: 1%;
+        font-size: smaller;
+        font-weight: bolder;
+        font-family: var(--font-kant);
+        background-color: var(--c-color-d);
+        color: var(--c-color-i);
+        border-radius: 5px;
+    }
+    .m-v {
+        margin: 7% 0 0 0;
+    }
 }
 @media (min-width:320px) and (max-width:680px) {
     /* NAV NAV */
@@ -68,5 +81,18 @@
     }
     ol {
         font-family: var(--fontMontserrat);
+    }
+    .label-A {
+        margin: 1%;
+        padding: 1%;
+        font-size: smaller;
+        font-weight: bolder;
+        font-family: var(--font-kant);
+        background-color: var(--c-color-d);
+        color: var(--c-color-i);
+        border-radius: 5px;
+    }
+    .m-v {
+        margin: 7% 0 0 0;
     }
 }

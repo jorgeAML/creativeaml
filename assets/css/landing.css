@@ -282,8 +282,11 @@
         font-size: smaller;
         font-weight: bolder;
         font-family: var(--font-kant);
-        background-color: var(--c-color-o);
+        background-color: var(--c-color-d);
         color: var(--c-color-i);
         border-radius: 5px;
+    }
+    .m-v {
+        margin: 7% 0 0 0;
     }
 }
