@@ -60,11 +60,6 @@
     ol {
         font-family: var(--fontMontserrat);
     }
-    .latex > p {
-        text-align: center;
-        font-family: var(--fontEphesis);
-        font-size: 1.6em;
-    }
     /*CANVAS*/
     #p4 {
         

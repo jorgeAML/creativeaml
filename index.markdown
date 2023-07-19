@@ -94,8 +94,8 @@ part2-carta4-label1: Calculo
 part2-carta4-label2: Riemann
 part3-carta4-parrafo-enlace: /blog_posts/01-11-2022.html
 # CARTA 5
-part3-carta5-titulo: Limites Kuznezob S.7
-part3-carta5-parrafo: Ejercicios resueltos de la sección 7 sobre límites y su continuidad en algún punto sobre la gráfica.
+part3-carta5-titulo: Limites parte 2
+part3-carta5-parrafo: Ejercicios propuestos sobre límites y su continuidad en algún punto sobre la gráfica.
 part2-carta5-label1: Calculo
 part2-carta5-label2: Limites
 part3-carta5-parrafo-enlace: /blog_posts/25-01-2023.html
