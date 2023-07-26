@@ -9,12 +9,12 @@
         padding: 1%;
     }
     .container-two-post {
-        display: grid;
+        display: flexbox;
+        
     }
     .latex > p {
-        text-align: center;
-        font-family: var(--fontEphesis);
-        font-size: 1.6em;
+        text-align: inherit;
+    
     }
     /*Para los tags del blog*/
     #row-tags-post {
@@ -74,6 +74,10 @@
     }
     u {
         text-decoration: solid underline var(--c-color-c) 3px;
+    }
+    .table-responsive {
+        width: auto;
+        overflow-x: auto;
     }
     .l-table {
         border: 4px solid var(--c-color-o);
