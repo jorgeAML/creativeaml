@@ -97,4 +97,7 @@
         display: flex;
         justify-content: center;
     }
+    .respuestaA {
+        border-left: var(--borderLeft);
+    }
 }
