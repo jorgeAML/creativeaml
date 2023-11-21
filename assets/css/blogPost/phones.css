@@ -10,11 +10,9 @@
     }
     .container-two-post {
         display: flexbox;
-        
     }
     .latex > p {
         text-align: inherit;
-    
     }
     /*Para los tags del blog*/
     #row-tags-post {
@@ -193,5 +191,7 @@
     a:active {
         color: var(--c-color-o);
     }
-    
+    .respuestaA {
+        border-left: var(--borderLeft);
+    }
 }
