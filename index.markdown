@@ -31,13 +31,13 @@ image2: assets/images/HT1.jpg
 image3: assets/images/post6.jpg
 image4: assets/images/post8.jpg
 image5: assets/images/post7.jpg
-
 image6: assets/images/phone.jpg
 image7: assets/images/header.jpg
-#image8: assets/images/development2.jpg
-#image9: assets/images/post10.jpg
+image8: assets/images/cube2.jpeg
+image9: assets/images/FC1.jpeg
 image10: assets/images/2023.jpg
 image11: assets/images/post9.jpg
+image12: assets/images/canva1.jpeg
 logo: assets/images/logo2non.png
 logo2: assets/images/logo2white.png
 logojekyll1: assets/images/logoBlack.png
@@ -105,7 +105,24 @@ part3-carta6-parrafo: Solución a la Hoja de trabajo de Física básica sobre lo
 part2-carta6-label1: Fisica
 part2-carta6-label2: Hoja trabajo
 part3-carta6-parrafo-enlace: /blog_posts/22-05-2023.html
-
+# CARTA 7
+part6-carta7-titulo: Examenes de lógica
+part6-carta7-parrafo: Examenes de lógica de la facultad de Ingeniería Usac recopilados en el segundo semestre del año 2023.
+part6-carta7-label1: Lógica
+part6-carta7-label2: Examenes
+part6-carta7-parrafo-enlace: /blog_posts/21-11-2023.html
+# CARTA 8
+part6-carta8-titulo: Física Corto 1
+part6-carta8-parrafo: Ejercicios de física recopilados de una prueba corta de simulación de examen parcial de la facultad de Ingeniería 2023
+part6-carta8-label1: Física
+part6-carta8-label2: Corto 1
+part6-carta8-parrafo-enlace: /blog_posts/18-08-2023.html
+# CARTA 9
+part6-carta9-titulo: Logos usando Canva
+part6-carta9-parrafo: Explorando la tecnología webGL aplicandola en creación de logos e imágenes.
+part6-carta9-label1: Canvas
+part6-carta9-label2: Diseño
+part6-carta9-parrafo-enlace: /blog_posts/19-04-2023.html
 
 ### PART 4 ###
 part4-titulo: Acerca de mi
