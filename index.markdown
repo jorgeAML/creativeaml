@@ -29,7 +29,7 @@ image11Alt: Sección 4.1 Area bajo la curva
 image1: assets/images/post10.jpg
 image2: assets/images/HT1.jpg
 image3: assets/images/post6.jpg
-image4: assets/images/post8.jpg
+image4: assets/images/MA11.jpeg
 image5: assets/images/post7.jpg
 image6: assets/images/phone.jpg
 image7: assets/images/header.jpg
@@ -70,11 +70,11 @@ descriptionTitle: Curso de Java
 descriptionA:  Aprende Java creando programas simples y de rápida ejecución visitando los tutoriales que tengo planeado hacer cada semana
 
 ### PART 2 ###
-part2-carta1-titulo: Libras a Kilogramos
-part2-carta1-parrafo: Un nuevo tutorial para que práctiques a convertir libras a kilogramos usando Java.
-part2-carta1-label1: Programacion
-part2-carta1-label2: Java
-part2-carta1-parrafo-enlace: /blog_posts/11-10-2022.html
+part2-carta1-titulo: Aplicaciones de Matrices
+part2-carta1-parrafo: Un proveedor de productos de jardinería tiene tres tipos de fertilizantes M, K y W que tienen un contenido de nitrógeno de 30%, 20% y 15% respectivamente.
+part2-carta1-label1: Intermedia 1
+part2-carta1-label2: Algebra lineal
+part2-carta1-parrafo-enlace: /blog_posts/02-02-2024.html
 # CARTA 2
 part2-carta2-titulo: Grados Celsius a Fahrenheit
 part2-carta2-parrafo: Aprende Java crando un programa donde conviertas de grados Celsius a Fahrenheit.
