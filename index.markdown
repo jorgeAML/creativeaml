@@ -118,11 +118,11 @@ part6-carta8-label1: Física
 part6-carta8-label2: Corto 1
 part6-carta8-parrafo-enlace: /blog_posts/18-08-2023.html
 # CARTA 9
-part6-carta9-titulo: Logos usando Canva
-part6-carta9-parrafo: Explorando la tecnología webGL aplicandola en creación de logos e imágenes.
-part6-carta9-label1: Canvas
-part6-carta9-label2: Diseño
-part6-carta9-parrafo-enlace: /blog_posts/19-04-2023.html
+part6-carta9-titulo: Aplicaciones de Matrices
+part6-carta9-parrafo: Un químico tiene tres soluciones que contienen un 10%, 30% y 50%, respectivamente de cierto ácido.
+part6-carta9-label1: Matrices
+part6-carta9-label2: Intermedia 1
+part6-carta9-parrafo-enlace: /blog_posts/23-01-2024.html
 
 ### PART 4 ###
 part4-titulo: Acerca de mi
