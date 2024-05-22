@@ -37,7 +37,7 @@
     \[dw = 10 dx\]
     \[\frac{dw}{10} = dx\]
     \[\int x\sin{10x} \hspace{1mm} dx = -\frac{1}{10}x\cos{10x} - \frac{1}{10}\int \cos{10x} dx\]
-    \[[\int x\sin{10x} \hspace{1mm} dx = -\frac{1}{10}x\cos{10x} - \frac{1}{100}\sin{10x} + C\]
+    \[\int x\sin{10x} \hspace{1mm} dx = -\frac{1}{10}x\cos{10x} - \frac{1}{100}\sin{10x} + C\]
     \[-\frac{1}{10}x\cos{10x} - \frac{1}{100}\sin{10x} + C\]
     Ejercicio 8.
     \[\int(\pi - x)\cos{\pi x} \hspace{1mm} dx\]
@@ -51,4 +51,23 @@
     \[\int(\pi - x)\cos{\pi x} \hspace{1mm} dx = (\pi - x)\frac{\sin{\pi x}}{\pi} + \int \frac{\sin{\pi x}}{\pi} dx\]
     \[\int(\pi - x)\cos{\pi x} \hspace{1mm} dx = (\pi - x)\frac{\sin{\pi x}}{\pi} - \frac{\cos{\pi x}}{\pi^{2}} + C\]
     \[(\pi - x)\frac{\sin{\pi x}}{\pi} - \frac{\cos{\pi x}}{\pi^{2}} + C\]
+
+    Ejercicio 9
+    
+    \[\int w \ln{w} \hspace{1mm} dw\]
+    \[u = \ln{w} \hspace{1cm} dv = w \hspace{1mm} dw\]
+    \[du = \frac{1}{w} dw \hspace{1cm} v = \frac{1}{2} w^{2}\]
+    \[\int w \ln{w} \hspace{1mm} dw = \ln{w}\frac{1}{2}w^{2} - \int \frac{1}{2}w^{2}\frac{1}{w}\hspace{1mm} dw\]
+    \[\int w \ln{w} \hspace{1mm} dw = \ln{w}\frac{1}{2}w^{2} - \frac{1}{4}w^{2} + C\]
+    \[\frac{1}{2}w^{2} \ln{w} - \frac{1}{4}w^{2} + C\]
+    
+    Ejercicio 10
+    
+    \[\int \frac{\ln{x}}{x^{2}} \hspace{1mm} dx\]
+    \[ u = \ln{x} \hspace{1cm} dv = x^{-2}\]
+    \[ du = \frac{1}{x} dx \hspace{1cm} v = \frac{1}{x}\]
+    \[\int \frac{\ln{x}}{x^{2}} = \ln{x}(-\frac{1}{x}) - \int -\frac{1}{x}\cdot\frac{1}{x} dx\]
+    \[\int \frac{\ln{x}}{x^{2}} = -\frac{\ln{x}}{x} + \int \frac{1}{x^{2}} dx\]
+    \[\int \frac{\ln{x}}{x^{2}} = -\frac{\ln{x}}{x} - \frac{1}{x} + C\]
+    \[-\frac{\ln{x}}{x} - \frac{1}{x} + C\]
 \end{document}
