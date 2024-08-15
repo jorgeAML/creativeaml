@@ -19,3 +19,6 @@ Segundo post en mi blog personal, accede mediante el enlace [Reflexiones 2022](h
 
 13.Enero.2023
 Enlace Onion actualizado.
+
+14.Agosto.2024
+Post de análisis dimensional actualizado en repo pero no en Bucket AWS.
