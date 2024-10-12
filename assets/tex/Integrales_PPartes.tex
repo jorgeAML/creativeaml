@@ -1,17 +1,21 @@
 \documentclass{amsart}
 \usepackage{lineno}
 \linenumbers
+
 \begin{document}
-    \begin{center}
-        \textsc{ Integrales} \\
-        \today
-    \end{center}
-    \begin{flushleft}
-        Sección 7.1 Stewart Pág.521 Res.1346
-    \end{flushleft}
-    Las siguientes integrales fueron tomadas del libro "Trascendes tempranas" Stewart
-    Ejercicio 5.
-    
+\title{Tecnicas de integracion}
+\author{Jorge Martinez}
+\address{Universidad de San Carlos de Guatemala\\ Facultad de ingenieria}
+\date{Mayo 21, 2024}
+\begin{abstract}
+Las siguientes integrales fueron tomadas del libro Trascendes tempranas Stewart. \\
+Sección 7.1 Stewart Pág.521/5 Res.1346
+\end{abstract}
+
+\maketitle
+
+\section{Ejercicio 5}\label{S:ejercicio 5}
+
     \[\int te^{2t} dx\]
     \[ u = t \hspace{1cm} dv=e^{2t}\]
     \[ u = dt \hspace{1cm} v = \frac{1}{2}e^{2t}\]
@@ -20,15 +24,19 @@
     \[\int te^{2t} dx = \frac{1}{2}te^{2t} - \frac{1}{4}e^{2t} + C\]
     \[\frac{1}{2}te^{2t} - \frac{1}{4}e^{2t} + C\]
     
-    Ejercicio 6.
-    \[\int ye^{-y}\]
+    
+    
+\section{Ejercicio 6}
+
+    \[\int ye^{-y} dy\]
     \[u = y \hspace{1cm} dv = e^{-y} dy\]
     \[u = dy \hspace{1cm} v = -e^{-y}\]
     \[\int ye^{-y} = -e^{-y}y - \int -e^{-y}\]
     \[\int ye^{-y} = -ye^{-y} -e^{-y} + C\]
     \[-ye^{-y} -e^{-y} + C\]
     
-    Ejercicio 7.
+\section{Ejercicio 7}
+
     \[\int x\sin{10x} \hspace{1mm} dx\]
     \[ u = x \hspace{1cm} dv = \sin{10x} dx\]
     \[ du = dx \hspace{1cm} v = -\frac{1}{10}\cos{10x}\]
@@ -37,9 +45,11 @@
     \[dw = 10 dx\]
     \[\frac{dw}{10} = dx\]
     \[\int x\sin{10x} \hspace{1mm} dx = -\frac{1}{10}x\cos{10x} - \frac{1}{10}\int \cos{10x} dx\]
-    \[\int x\sin{10x} \hspace{1mm} dx = -\frac{1}{10}x\cos{10x} - \frac{1}{100}\sin{10x} + C\]
+    \[[\int x\sin{10x} \hspace{1mm} dx = -\frac{1}{10}x\cos{10x} - \frac{1}{100}\sin{10x} + C\]
     \[-\frac{1}{10}x\cos{10x} - \frac{1}{100}\sin{10x} + C\]
-    Ejercicio 8.
+    
+\section{Ejercicio 8}
+
     \[\int(\pi - x)\cos{\pi x} \hspace{1mm} dx\]
     \[\int \cos{\pi x} \hspace{1mm} dx = \int \cos{w} \hspace{1mm} dw\]
     \[ w = \pi x \]
@@ -51,8 +61,8 @@
     \[\int(\pi - x)\cos{\pi x} \hspace{1mm} dx = (\pi - x)\frac{\sin{\pi x}}{\pi} + \int \frac{\sin{\pi x}}{\pi} dx\]
     \[\int(\pi - x)\cos{\pi x} \hspace{1mm} dx = (\pi - x)\frac{\sin{\pi x}}{\pi} - \frac{\cos{\pi x}}{\pi^{2}} + C\]
     \[(\pi - x)\frac{\sin{\pi x}}{\pi} - \frac{\cos{\pi x}}{\pi^{2}} + C\]
-
-    Ejercicio 9
+    
+\section{Ejercicio 9}
     
     \[\int w \ln{w} \hspace{1mm} dw\]
     \[u = \ln{w} \hspace{1cm} dv = w \hspace{1mm} dw\]
@@ -61,7 +71,7 @@
     \[\int w \ln{w} \hspace{1mm} dw = \ln{w}\frac{1}{2}w^{2} - \frac{1}{4}w^{2} + C\]
     \[\frac{1}{2}w^{2} \ln{w} - \frac{1}{4}w^{2} + C\]
     
-    Ejercicio 10
+\section{Ejercicio 10}
     
     \[\int \frac{\ln{x}}{x^{2}} \hspace{1mm} dx\]
     \[ u = \ln{x} \hspace{1cm} dv = x^{-2}\]
@@ -70,4 +80,19 @@
     \[\int \frac{\ln{x}}{x^{2}} = -\frac{\ln{x}}{x} + \int \frac{1}{x^{2}} dx\]
     \[\int \frac{\ln{x}}{x^{2}} = -\frac{\ln{x}}{x} - \frac{1}{x} + C\]
     \[-\frac{\ln{x}}{x} - \frac{1}{x} + C\]
+    
+\section{Ejercicio 11}
+
+    \[\int \left(x^{2} + 2x \right) \cos{x} dx\]
+    \[u = \left(x^{2} + 2x \right) \hspace{1cm} dv = \cos{x} \hspace{1mm} dx\]
+    \[du = 2x+2 \hspace{1mm} dx \hspace{1cm} v = \sin{x}\]
+    \[\int \left(x^2 + 2x \right)\cos{x}\hspace{1mm}dx = \left(x^{2} + 2x \right)\sin{x} - \int{\left(2x + 2\right)\sin{x}\hspace{1mm} dx}\]
+    \[x^{2}\sin{x}+2x\sin{x} - \left(\int{2x\sin{x}\hspace{1mm} dx}+2\int{\sin{x}\hspace{1mm} dx}\right)\]
+    \[x^{2}\sin{x}+2x\sin{x}+2\cos{x} - \int{2x\sin{x}\hspace{1mm} dx}\]
+    \[u = 2x \hspace{1cm} dv = \sin{x}\]
+    \[du = 2 \hspace{1mm} dx \hspace{1cm} v = \cos{x}\]
+    \[x^{2}\sin{x}+2x\sin{x}+2\cos{x} - \left(2x\cos{x} - 2\int{\cos{x}}\right)\]
+    \[x^{2}\sin{x}+2x\sin{x}+2\cos{x} -2x\cos{x} +2\sin{x}\]
+    \[\left(x^{2}+2x+2\right)\sin{x}+\left(2x-2\right)\cos{x}\]
+    
 \end{document}
