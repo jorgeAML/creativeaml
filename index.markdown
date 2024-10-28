@@ -60,8 +60,8 @@ footer3-1: Instagram
 footer3-2: Twitter
 footer3-3: Github
 
-copyright2: 2022 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
-actualizacion: Última actualización 16 de Agosto del 2024
+copyright2: 2024 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
+actualizacion: Última actualización 27 de octubre del 2024
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
@@ -141,7 +141,7 @@ Meta-copyright: JorgeAML
 Meta-keywords: programación, blog, JorgeAML, USAC, ingeniería, unity, game development, java, html, css
 Meta-type: website
 Meta-url: https://creativeaml.com/
-Meta-image: banner.jpg
+Meta-image: Halloween2024.jpg
 
 
 ---

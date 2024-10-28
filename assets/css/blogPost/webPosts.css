@@ -70,14 +70,19 @@
         border-radius: 5px;
         margin: 0 auto 0 auto;
         font-family: var(--fontMontserrat);
+        letter-spacing: 1px;
+    }
+    .l-table caption {
+        font-size: 60%;
     }
     .l-table tr th {
         text-align: center;
-        padding: 5%;
+        padding: 10px 20px;
         border-bottom: 2px solid var(--c-color-p);
     }
     .l-table tr td {
         border-bottom: 2px solid var(--c-color-g);
+        padding: 10px 20px;
     }
     i {
         font-family: 'Times New Roman', Times, serif;

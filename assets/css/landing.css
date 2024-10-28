@@ -37,14 +37,14 @@
         font-weight: bold;
     }
     .site-header {
-        background-image: var(--image-header);
+        background-image: var(--image-Halloween2024);
         background-size: cover;
         background-position: 50%;
         background-repeat: no-repeat;
         position: relative;
         min-height: 100vh;
-        background-color:  	#900603;
-        background-blend-mode: difference;
+        background-color:  	#f6d8d8;
+        background-blend-mode: multiply;
         box-shadow: 0px 20px 50px -20px var(--c-color-p);
         border-bottom: 3px solid var(--c-color-o);
     }
