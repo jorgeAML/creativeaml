@@ -61,13 +61,13 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2024 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
-actualizacion: Última actualización 27 de octubre del 2024
+actualizacion: Última actualización 21 de enero del 2025
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
 ### DESCRIPTION
-descriptionTitle: Curso de Java
-descriptionA:  Aprende Java creando programas simples y de rápida ejecución visitando los tutoriales que tengo planeado hacer cada semana
+descriptionTitle: Blog de estudio
+descriptionA:  Aprende sobre conceptos, ejercicios matemáticos y temas de programación básicos y avanzados durante este 2025
 
 ### PART 2 ###
 part2-carta1-titulo: Aplicaciones de Matrices
