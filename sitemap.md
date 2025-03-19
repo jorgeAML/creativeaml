@@ -8,17 +8,19 @@ section1: Regresar
 metaDescripcion: Mapa del sitio
 
 tarjetaTitulo: Resumen
-tarjetaContenido: Encuentra todas las publicaciones de un modo corto y rápido
+tarjetaContenido: Encuentra todas las publicaciones de un modo corto y rápido ordenadas por orden de publicación.
 tarjetaFecha: 21 de Enero 2025
 tarjetaCreador: Jorge AML
-tarjetaTags: Matemáticas, Calculo, Límites, Kuznezob, Mate Rusa, usac 
+tarjetaTags: Matemáticas, Calculo, Álgebra, Kuznezob, Mate Rusa, USAC 
 
 tag1: Matemáticas
 tag2: Calculo
-tag3: Límites
-tag4: Continuidad
+tag3: Álgebra
+tag4: Blog
 tag5: Mapa
-# Agregar limites continuos por partes y ejercicios de examenes
 
 ---
+<h1>Mapa del sitio</h1>
+<p>El mapa esta ordenado por año de publicación</p>
 
+   

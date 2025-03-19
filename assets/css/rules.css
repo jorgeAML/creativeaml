@@ -251,3 +251,7 @@ footer {
 ul > li > a {
     font-family: var(--fontMontserrat);
 }
+.mapa-divider {
+    color: var(--color-border-light);
+    border: 1px dashed var(--color-border-light);
+}
