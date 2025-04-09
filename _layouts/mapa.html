@@ -17,12 +17,19 @@
               <div class="izq">
                 <div class="izq-container card-design-1">
                   <button class="button-simple-2"><a href="/">Regresar al inicio</a></button>
-                  {{page.content}}
+                  
                   <div>
+                    {{page.content}}
+                    
                     <ul>
-                    {% for enlace in site.data.enlaces %}
+                    {% assign postByYear = site.data.enlaces |sort:"month"| sort:"year" | reverse %}
+                    {% for enlace in postByYear%}
                         <li>
                             <a href="{{enlace.enlace}}">{{ enlace.title}}</a>
+                            <div id="row-tags-post">
+                              <p class="tag-post">{{enlace.date}}</p>
+                            </div>
+                          <hr class="mapa-divider">  
                         </li>
                     {% endfor %}
                     </ul>
