@@ -61,7 +61,7 @@ footer3-2: Twitter
 footer3-3: Github
 
 copyright2: 2024 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
-actualizacion: Última actualización 19 de Marzo del 2025
+actualizacion: Última actualización 10 de Mayo del 2025
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
