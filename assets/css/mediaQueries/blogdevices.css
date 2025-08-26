@@ -29,6 +29,13 @@
     .m-v {
         margin: 7% 0 0 0;
     }
+    .canva-aml {
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        width: auto;
+        height: auto;  
+    }
 }
 @media (min-width:320px) and (max-width:680px) {
     /* NAV NAV */
@@ -94,5 +101,13 @@
     }
     .m-v {
         margin: 7% 0 0 0;
+    }
+    .canva-aml {
+        display: flex;
+        flex-flow: column;
+        width: auto;
+        height: auto;  
+        justify-content: center;
+        margin-right: 50px;
     }
 }

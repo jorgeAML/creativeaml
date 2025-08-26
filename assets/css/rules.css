@@ -255,3 +255,9 @@ ul > li > a {
     color: var(--color-border-light);
     border: 1px dashed var(--color-border-light);
 }
+.canva-aml {
+    display: flex;
+    width: auto;
+    height: auto;  
+    margin: 50px;
+}

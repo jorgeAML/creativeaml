@@ -7,7 +7,7 @@ window.onload = function(){
     var round = "round";
     //linea central
     context.beginPath();   
-    context.lineWidth = lineWidth_AML;
+    context.lineWidth = 15;
     context.strokeStyle = color;
     context.lineCap = round;
     context.moveTo(300,250);
@@ -17,11 +17,11 @@ window.onload = function(){
 
     //LINEA FINAL
     context.beginPath();
-    context.lineWidth = lineWidth_AML;
+    context.lineWidth = 15;
     context.strokeStyle = color;
     context.lineCap = round;
-    context.moveTo(250, 625);
-    context.lineTo(350,625);
+    context.moveTo(250, 600);
+    context.lineTo(350,600);
     context.stroke();
 
     //ARCO SUPERIOR
