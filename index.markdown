@@ -60,8 +60,8 @@ footer3-1: Instagram
 footer3-2: Twitter
 footer3-3: Github
 
-copyright2: 2024 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
-actualizacion: Última actualización 10 de Mayo del 2025
+copyright2: 2026 Creative AML. Derechos reservados. Hecho con Jekyll y MathJax
+actualizacion: Última actualización 11 de Junio del 2026
 #//////////////////////////////////////////////////////////////////////////////
 ###   END FOOTER   ###
 
