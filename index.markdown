@@ -52,6 +52,7 @@ footer-titulo3: Social
 
 footer1-1: Archivos
 footer1-2: Mapa del sitio
+footer1-3: Teoria de sistemas
 
 footer2-1: Terminos y condiciones
 footer2-2: Politica de privacidad
